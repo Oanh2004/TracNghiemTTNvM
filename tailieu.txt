@@ -1,0 +1,2113 @@
+Câu 1. Nguyên mẫu trong thiết kế là gì?
+A. Sản phẩm cuối cùng
+B. Mô hình thu nhỏ để kiểm thử ý tưởng
+C. Bản vẽ kỹ thuật chi tiết
+D. Mã phần mềm hoàn chỉnh
+Đáp án: B
+
+Câu 2. Ví dụ nào sau đây KHÔNG phải là nguyên mẫu trong thiết kế tương tác?
+A. Bản phác thảo màn hình
+B. Video mô phỏng
+C. Cục gỗ tượng trưng thiết bị
+D. Hệ thống thương mại đã hoàn thiện
+Đáp án: D
+
+Câu 3. Trong các lĩnh vực khác (xe, kiến trúc…), nguyên mẫu thường là:
+A. Sản phẩm cuối
+B. Mô hình quy mô nhỏ
+C. Phần mềm
+D. Câu chuyện minh họa
+Đáp án: B
+
+Câu 4. Trong thiết kế tương tác, nguyên mẫu có thể là:
+A. PowerPoint
+B. Bảng phân cảnh
+C. Mô hình bìa cứng
+D. Tất cả các đáp án trên
+Đáp án: D
+
+Câu 5. Tạo mẫu giúp:
+A. Tiết kiệm chi phí thiết kế
+B. Hoàn thành sản phẩm ngay
+C. Tránh phản hồi người dùng
+D. Không cần kiểm thử
+Đáp án: A
+
+Câu 6. Đặc điểm chính của nguyên mẫu độ trung thực thấp:
+A. Sử dụng vật liệu gần giống sản phẩm thật
+B. Nhanh, rẻ, dễ thay đổi
+C. Hoàn chỉnh và bền
+D. Không cần người dùng tham gia
+Đáp án: B
+
+Câu 7. Ví dụ nào là nguyên mẫu độ trung thực thấp?
+A. Bảng phân cảnh
+B. Ứng dụng hoàn chỉnh
+C. Hệ thống tích hợp phần cứng
+D. Thiết bị điện tử thật
+Đáp án: A
+
+Câu 8. Phác thảo quan trọng trong tạo mẫu vì:
+A. Giúp hình dung ý tưởng nhanh
+B. Chỉ để trang trí
+C. Thay thế sản phẩm cuối
+D. Không liên quan đến thiết kế
+Đáp án: A
+
+Câu 9. Nguyên mẫu dựa trên thẻ thường dùng trong:
+A. Phát triển website
+B. Phát triển chip
+C. Lập trình game
+D. Quản lý dữ liệu
+Đáp án: A
+
+Câu 10. “Wizard-of-Oz” là kỹ thuật:
+A. Người dùng tương tác trực tiếp với hệ thống thật
+B. Nhà phát triển giả lập phản hồi của hệ thống
+C. Hoàn toàn tự động
+D. Chỉ dùng cho nghiên cứu tâm lý
+Đáp án: B
+
+Câu 11. Nguyên mẫu độ trung thực cao dùng:
+A. Giấy và bìa cứng
+B. Vật liệu giống sản phẩm cuối
+C. Chỉ PowerPoint
+D. Mô hình Lego
+Đáp án: B
+
+Câu 12. Nguy hiểm của nguyên mẫu độ trung thực cao:
+A. Người dùng nghĩ đó là sản phẩm hoàn chỉnh
+B. Không giống sản phẩm cuối
+C. Không thể kiểm thử
+D. Không gây hiểu nhầm
+Đáp án: A
+
+Câu 13. Một lợi ích của nguyên mẫu độ trung thực cao là:
+A. Trông giống hệ thống thật
+B. Dễ thay đổi nhanh
+C. Không tốn công
+D. Không cần lập trình
+Đáp án: A
+
+Câu 14. Nguyên mẫu độ trung thực cao thường phát triển bằng:
+A. Thẻ giấy
+B. Kết hợp phần cứng & phần mềm hiện có
+C. Bảng phân cảnh
+D. Ghi chú Post-it
+Đáp án: B
+
+Câu 15. Loại nguyên mẫu nào nguy cơ tốn kém hơn?
+A. Độ trung thực thấp
+B. Độ trung thực cao
+C. Wizard-of-Oz
+D. Card-based
+Đáp án: B
+
+Câu 16. Mọi nguyên mẫu đều liên quan đến:
+A. Thỏa hiệp
+B. Hoàn chỉnh
+C. Không cần phản hồi
+D. Lập trình đầy đủ
+Đáp án: A
+
+Câu 17. Thỏa hiệp ngang nghĩa là:
+A. Nhiều chi tiết một chức năng
+B. Ít chi tiết nhiều chức năng
+C. Hoàn thiện tất cả
+D. Không có chức năng nào
+Đáp án: B
+
+Câu 18. Thỏa hiệp dọc nghĩa là:
+A. Ít chi tiết nhiều chức năng
+B. Nhiều chi tiết một vài chức năng
+C. Không có chi tiết nào
+D. Hoàn thiện toàn bộ
+Đáp án: B
+
+Câu 19. Ví dụ thỏa hiệp ngang:
+A. Có nhiều màn hình nhưng chỉ là demo
+B. Chỉ một tính năng chi tiết
+C. Sản phẩm hoàn chỉnh
+D. Hệ thống thật
+Đáp án: A
+
+Câu 20. Vì sao không được bỏ qua sự thỏa hiệp?
+A. Vì nguyên mẫu không thể thay thế sản phẩm kỹ thuật
+B. Vì sẽ tiết kiệm thời gian
+C. Vì người dùng thích
+D. Vì sản phẩm sẽ đẹp hơn
+Đáp án: A
+
+Câu 21. Phép ẩn dụ giao diện là gì?
+A. Thay thế sản phẩm
+B. Kết hợp kiến thức quen thuộc với cái mới
+C. Chỉ biểu tượng đồ họa
+D. Không liên quan đến UX
+Đáp án: B
+
+Câu 22. Ví dụ phép ẩn dụ giao diện:
+A. Giỏ hàng trực tuyến
+B. Màn hình đen
+C. Dòng code
+D. Biểu đồ số liệu
+Đáp án: A
+
+Câu 23. Phép ẩn dụ “desktop” trên máy tính là:
+A. Mô hình khái niệm khởi tạo tại giao diện
+B. Màn hình thật
+C. Kích thước bàn làm việc
+D. Phần cứng máy tính
+Đáp án: A
+
+Câu 24. Ưu điểm của phép ẩn dụ giao diện:
+A. Dễ hiểu sản phẩm
+B. Giúp tăng tốc độ CPU
+C. Thay thế UX
+D. Giảm chi phí phần cứng
+Đáp án: A
+
+Câu 25. Phép ẩn dụ trực quan hóa hoạt động qua:
+A. Icon
+B. Dữ liệu nhị phân
+C. Câu lệnh code
+D. Lệnh SQL
+Đáp án: A
+
+Câu 26. Công cụ mô hình hóa UX thường dùng:
+A. Persona
+B. RAM
+C. CPU
+D. SQL
+Đáp án: A
+
+Câu 27. Các loại bản đồ UX gồm:
+A. Bản đồ thiết kế
+B. Bản đồ hành trình khách hàng
+C. Bản đồ trải nghiệm
+D. Tất cả đáp án trên
+Đáp án: D
+
+Câu 28. Biểu diễn trực quan UX thường là:
+A. Bánh xe, timeline
+B. Dữ liệu Excel
+C. Mã code
+D. Văn bản
+Đáp án: A
+
+Câu 29. Mục đích chính của bản đồ UX:
+A. Hiểu trải nghiệm người dùng
+B. Tăng tốc độ CPU
+C. Viết phần mềm
+D. Giảm chi phí
+Đáp án: A
+
+Câu 30. Bản đồ hành trình khách hàng giúp:
+A. Theo dõi cảm xúc & hành vi qua các giai đoạn
+B. Giảm dung lượng ổ cứng
+C. Tăng RAM
+D. Tăng tốc độ mạng
+Đáp án: A
+
+Câu 31. Công cụ Pencil Project:
+A. Miễn phí
+B. Giá 200$
+C. Chỉ chạy Windows
+D. Không hỗ trợ add-on
+Đáp án: A
+
+Câu 32. Pencil Project hỗ trợ:
+A. Linux, Mac, Windows
+B. Chỉ Linux
+C. Chỉ Windows
+D. Chỉ Mac
+Đáp án: A
+
+Câu 33. Pencil Project còn có:
+A. Add-on Firefox
+B. Add-on Chrome
+C. Add-on Safari
+D. Không add-on
+Đáp án: A
+
+Câu 34. Công cụ Smartdraw có giá:
+A. Miễn phí
+B. 200$
+C. 20$
+D. 1000$
+Đáp án: B
+
+Câu 35. Smartdraw chủ yếu dùng để:
+A. Vẽ sơ đồ
+B. Chơi game
+C. Dịch văn bản
+D. Lập trình
+Đáp án: A
+
+Câu 36. Xây dựng nguyên mẫu bằng thiết bị điện tử có thể dùng:
+A. Arduino
+B. Excel
+C. Word
+D. Paint
+Đáp án: A
+
+Câu 37. Bộ công cụ MaKey MaKey dùng để:
+A. Tạo giao diện điều khiển điện tử đơn giản
+B. Tăng tốc CPU
+C. Dịch văn bản
+D. Lập trình SQL
+Đáp án: A
+
+Câu 38. SDK bao gồm:
+A. IDE, tài liệu, API
+B. Phần cứng
+C. CPU
+D. RAM
+Đáp án: A
+
+Câu 39. SDK Kinect của Microsoft được dùng trong:
+A. Nghiên cứu
+B. Lập trình hệ điều hành
+C. Trò chơi độc quyền
+D. Bảo mật
+Đáp án: A
+
+Câu 40. Ưu điểm của SDK trong tạo mẫu:
+A. Giúp phát triển dễ dàng hơn
+B. Tăng giá thành
+C. Không hỗ trợ phát triển
+D. Chỉ dành cho phần cứng
+Đáp án: A
+
+Câu 41. Trong trò chuyện trực tiếp, quy tắc nào thường được tuân thủ?
+A. Phát biểu đồng loạt
+B. Thay phiên lượt nói
+C. Nói xen kẽ không cần chờ
+D. Giữ im lặng hoàn toàn
+Đáp án: B
+
+Câu 42. Ví dụ nào dưới đây là tín hiệu ngầm báo hiệu muốn kết thúc cuộc trò chuyện?
+A. Nói “Tạm biệt”
+B. Nhìn đồng hồ
+C. Giơ tay chào
+D. Nói “Hẹn gặp lại”
+Đáp án: B
+
+Câu 43. Khi có hiểu nhầm trong hội thoại, người nói thường làm gì?
+A. Bỏ qua
+B. Lặp lại với nhấn mạnh
+C. Im lặng
+D. Đổi chủ đề
+Đáp án: B
+
+Câu 44. Từ khóa “Hả?”, “Cái gì?” trong hội thoại được gọi là gì?
+A. Từ nối
+B. Mã thông báo sửa lỗi
+C. Câu cảm thán
+D. Từ đệm
+Đáp án: B
+
+Câu 45. Skype được coi là thành công vì:
+A. Có thể xem phim online
+B. Mang lại sự thân mật hơn điện thoại âm thanh
+C. Thay thế email
+D. Không cần internet
+Đáp án: B
+
+Câu 46. Công nghệ HyperMirror dùng để:
+A. Tạo thú cưng ảo
+B. Giúp người dùng ở xa cảm giác như cùng trong một phòng
+C. Dịch ngôn ngữ tự động
+D. Lưu trữ hội thoại
+Đáp án: B
+
+Câu 47. Người ta gọi việc nhiều người cùng hiện diện trong cùng không gian ảo là:
+A. Telemarketing
+B. Co-presence
+C. Multitasking
+D. Crowd-sourcing
+Đáp án: B
+
+Câu 48. Công nghệ nào giúp chia sẻ không gian làm việc và ghi chú?
+A. Reactable
+B. Smartboard
+C. Twitter
+D. Kinect
+Đáp án: B
+
+Câu 49. “Overhearing” trong nghiên cứu HCI nghĩa là:
+A. Nghe trộm
+B. Nghe hội thoại trong bối cảnh làm việc
+C. Nghe nhạc nền
+D. Ghi âm cuộc gọi
+Đáp án: B
+
+Câu 50. Công cụ “Babble” trong thiết kế CSCW dùng để:
+A. Chat ẩn danh
+B. Tạo nhận thức nhóm (awareness)
+C. Phát nhạc trực tuyến
+D. Dịch tự động
+Đáp án: B
+
+Câu 51. “Sococo” là ví dụ về:
+A. Phần mềm chống virus
+B. Văn phòng ảo trực tuyến
+C. Trình duyệt web
+D. Ứng dụng video game
+Đáp án: B
+
+Câu 52. Tương tác cảm xúc quan tâm đến:
+A. Chỉ tốc độ hệ thống
+B. Cảm nhận và phản ứng của người dùng
+C. Kích thước màn hình
+D. Hệ điều hành
+Đáp án: B
+
+Câu 53. Norman, Ortony và Revelle (2004) phát triển mô hình về:
+A. Tương tác xã hội
+B. Cảm xúc
+C. Trí nhớ
+D. Ngôn ngữ
+Đáp án: B
+
+Câu 54. Khi sợ hãi hoặc tức giận, cơ thể phản ứng như thế nào?
+A. Thư giãn
+B. Căng cơ, đổ mồ hôi
+C. Cười
+D. Ngủ gật
+Đáp án: B
+
+Câu 55. Khi hạnh phúc, con người thường:
+A. Hẹp ý, khó sáng tạo
+B. Ít tập trung, sáng tạo hơn
+C. Lo lắng hơn
+D. Không giao tiếp
+Đáp án: B
+
+Câu 56. Công nghệ cảm biến GSR được dùng để:
+A. Đo nhịp tim
+B. Dự đoán cảm xúc người dùng
+C. Quản lý file
+D. Phân tích cú pháp
+Đáp án: B
+
+Câu 57. 6 biểu hiện cảm xúc cơ bản được mã hóa khuôn mặt gồm:
+A. Hạnh phúc, buồn, sợ hãi, tức giận, ngạc nhiên, ghê tởm
+B. Hạnh phúc, buồn, yêu thương, tức giận, hy vọng, kiêu ngạo
+C. Tức giận, buồn, tự hào, lo âu, yêu thương, hy vọng
+D. Hạnh phúc, ghê tởm, xấu hổ, ghen tị, hy vọng, tức giận
+Đáp án: A
+
+Câu 58. Một nhược điểm của nhân hóa (anthropomorphism) trong HCI là:
+A. Làm người dùng hứng thú hơn
+B. Gây lo lắng, tự ti
+C. Dễ dàng hơn trong sử dụng
+D. Tăng tính cá nhân hóa tích cực
+Đáp án: B
+
+Câu 59. Một ví dụ của phản hồi cảm xúc tiêu cực gây khó chịu là:
+A. “Không chính xác. Thử lại.”
+B. “Bây giờ Chris, điều đó không đúng. Bạn có thể làm tốt hơn thế.”
+C. “Bạn làm rất tốt!”
+D. “Chính xác, tuyệt vời!”
+Đáp án: B
+
+Câu 60. Ý nghĩa nghiên cứu cảm xúc trong HCI là gì?
+A. Để loại bỏ mọi cảm xúc
+B. Để thiết kế hệ thống phù hợp với trạng thái cảm xúc người dùng
+C. Để thay thế hoàn toàn con người
+D. Để tăng tốc độ xử lý dữ liệu
+Đáp án: B
+
+Câu 61. Giao diện người dùng (UI) là gì?
+A. Tập hợp các tính năng của phần mềm
+B. Điểm tương tác giữa người dùng và thiết bị hoặc ứng dụng
+C. Mã nguồn của một ứng dụng
+D. Cơ sở dữ liệu của hệ thống
+Đáp án: B
+
+Câu 62. Mục tiêu chính của thiết kế giao diện người dùng tốt là gì?
+A. Làm cho ứng dụng trông phức tạp
+B. Đảm bảo ứng dụng dễ sử dụng và hiệu quả
+C. Tăng thời gian người dùng dành cho ứng dụng
+D. Giảm tính năng của ứng dụng
+Đáp án: B
+
+Câu 63. Giao diện dòng lệnh (CLI) là loại giao diện nào?
+A. Giao diện dựa trên đồ họa
+B. Giao diện người dùng bằng giọng nói
+C. Giao diện người dùng dựa trên văn bản
+D. Giao diện cảm ứng
+Đáp án: C
+
+Câu 64. Giao diện người dùng đồ họa (GUI) được đặc trưng bởi điều gì?
+A. Sử dụng các lệnh văn bản để tương tác
+B. Sử dụng các biểu tượng, cửa sổ và menu trực quan
+C. Chỉ tương tác qua giọng nói
+D. Yêu cầu nhập liệu vật lý
+Đáp án: B
+
+Câu 65. Yếu tố nào sau đây KHÔNG phải là một thành phần điều khiển đầu vào phổ biến trong UI?
+A. Nút (Button)
+B. Trường văn bản (Text field)
+C. Chú giải công cụ (Tooltip)
+D. Hộp kiểm (Checkbox)
+Đáp án: C
+
+Câu 66. Nguyên tắc thiết kế UI nào tập trung vào việc ưu tiên nhu cầu và sở thích của người dùng?
+A. Tính nhất quán
+B. Rõ ràng
+C. Thiết kế lấy người dùng làm trung tâm
+D. Hiệu quả
+Đáp án: C
+
+Câu 67. Phản hồi kịp thời cho người dùng là một phần của nguyên tắc thiết kế UI nào?
+A. Rõ ràng
+B. Phản hồi
+C. Hiệu quả
+D. Tính nhất quán
+Đáp án: B
+
+Câu 68. Tại sao tính nhất quán lại quan trọng trong thiết kế UI?
+A. Để làm cho ứng dụng trông khác biệt với các ứng dụng khác
+B. Để người dùng dễ học và dễ sử dụng hơn
+C. Để tăng số lượng tính năng
+D. Để làm cho ứng dụng chậm hơn
+Đáp án: B
+
+Câu 69. Vai trò của màu sắc trong thiết kế UI là gì?
+A. Chỉ để làm cho giao diện trông đẹp mắt
+B. Ảnh hưởng đến cảm xúc, nhận thức và trải nghiệm người dùng
+C. Không có vai trò quan trọng
+D. Chỉ để phân biệt các loại văn bản
+Đáp án: B
+
+Câu 70. Độ tương phản cao trong màu sắc UI giúp cải thiện điều gì?
+A. Thẩm mỹ tổng thể
+B. Khả năng đọc và khả năng tiếp cận
+C. Tốc độ tải trang
+D. Số lượng tính năng
+Đáp án: B
+
+Câu 71. Biểu tượng (Icons) trong UI có vai trò gì?
+A. Chỉ để trang trí
+B. Tăng cường điều hướng và cung cấp tín hiệu trực quan
+C. Làm cho ứng dụng nặng hơn
+D. Giảm khả năng sử dụng
+Đáp án: B
+
+Câu 72. Khả năng tiếp cận trong thiết kế UI có nghĩa là gì?
+A. Ứng dụng chỉ dành cho một nhóm người dùng cụ thể
+B. Ứng dụng có thể được sử dụng bởi tất cả mọi người, bao gồm cả người khuyết tật
+C. Ứng dụng chỉ có thể truy cập trên một loại thiết bị
+D. Ứng dụng yêu cầu kỹ năng đặc biệt để sử dụng
+Đáp án: B
+
+Câu 73. Công cụ nào sau đây thường được sử dụng để tạo khung dây (wireframes) và nguyên mẫu (prototypes) trong quá trình thiết kế UI?
+A. Microsoft Word
+B. Figma
+C. Adobe Photoshop (chủ yếu để chỉnh sửa ảnh)
+D. Google Sheets
+Đáp án: B
+
+Câu 74. Giai đoạn "Nghiên cứu" trong quy trình thiết kế UI bao gồm những hoạt động nào?
+A. Chỉ tạo khung dây
+B. Phân tích người dùng và yêu cầu của họ
+C. Chỉ kiểm tra khả năng sử dụng
+D. Chỉ viết mã
+Đáp án: B
+
+Câu 75. Tại sao phản hồi của người dùng lại quan trọng trong thiết kế UI?
+A. Để biết người dùng không thích gì
+B. Để cải thiện thiết kế, khả năng sử dụng và chức năng
+C. Để chứng minh rằng thiết kế là hoàn hảo
+D. Để trì hoãn việc ra mắt sản phẩm
+Đáp án: B
+
+Câu 76. Xu hướng thiết kế UI nào tập trung vào việc giảm mỏi mắt và mang lại sự thoải mái cho người dùng?
+A. Thiết kế phẳng
+B. Chế độ tối (Dark mode)
+C. Tương tác vi mô
+D. Giao diện giọng nói
+Đáp án: B
+
+Câu 77. AI và Machine Learning đang ảnh hưởng đến tương lai của thiết kế UI như thế nào?
+A. Giảm sự cần thiết của giao diện người dùng
+B. Nâng cao cá nhân hóa và trải nghiệm người dùng
+C. Chỉ ảnh hưởng đến các ứng dụng phức tạp
+D. Làm cho giao diện người dùng trở nên tĩnh hơn
+Đáp án: B
+
+Câu 78. Sự khác biệt chính giữa UI và UX là gì?
+A. UI là về trải nghiệm người dùng, UX là về giao diện
+B. UI tập trung vào thiết kế và bố cục sản phẩm, UX tập trung vào sự hài lòng và hành trình của người dùng
+C. UI và UX là hai thuật ngữ hoàn toàn giống nhau
+D. UI chỉ áp dụng cho phần mềm, UX chỉ áp dụng cho phần cứng
+Đáp án: B
+
+Câu 79. Khi thiết kế UI cho các thiết bị khác nhau (máy tính để bàn, di động, máy tính bảng), điều gì là quan trọng nhất cần cân nhắc?
+A. Giữ nguyên một thiết kế duy nhất cho tất cả các thiết bị
+B. Đảm bảo thiết kế đáp ứng (responsive design) để phù hợp với kích thước màn hình khác nhau
+C. Chỉ tập trung vào thiết kế cho máy tính để bàn
+D. Tạo ra các ứng dụng hoàn toàn khác nhau cho mỗi thiết bị
+Đáp án: B
+
+Câu 80. Hiệu ứng chuyển động và chuyển tiếp (animations and transitions) trong UI có tác dụng gì?
+A. Làm cho giao diện trở nên lộn xộn
+B. Cải thiện trải nghiệm người dùng bằng cách thêm sự quan tâm và phản hồi trực quan
+C. Chỉ tăng thời gian tải ứng dụng
+D. Không có bất kỳ lợi ích nào
+Đáp án: B
+
+Câu 81. Tương tác người máy (HCI) là gì?
+A. Sự giao tiếp giữa hai máy tính
+B. Sự giao tiếp giữa con người và máy tính
+C. Sự giao tiếp giữa hai người
+D. Sự giao tiếp giữa máy tính và robot
+Đáp án: B
+
+Câu 82. Nguyên tắc quan trọng nhất trong thiết kế giao diện người dùng là gì?
+A. Tính thẩm mỹ
+B. Tính nhất quán
+C. Tính khả dụng
+D. Tính bảo mật
+Đáp án: C
+
+Câu 83. Một trong những mục tiêu chính của HCI là gì?
+A. Tăng cường hiệu suất của phần cứng máy tính
+B. Cải thiện trải nghiệm người dùng
+C. Giảm chi phí phát triển phần mềm
+D. Tăng cường tốc độ xử lý của máy tính
+Đáp án: B
+
+Câu 84. Khả năng sử dụng (usability) trong HCI đề cập đến điều gì?
+A. Tính dễ dàng trong việc học và sử dụng hệ thống
+B. Tính ổn định của phần mềm
+C. Tính bảo mật của hệ thống
+D. Tính tương thích của phần mềm
+Đáp án: A
+
+Câu 85. Thiết kế lấy người làm trung tâm (Human Center Design - HCD) là gì?
+A. Thiết kế dựa trên khả năng của phần cứng
+B. Thiết kế dựa trên xu hướng công nghệ
+C. Thiết kế dựa trên nhu cầu và mong muốn của người dùng
+D. Thiết kế dựa trên lợi ích kinh tế
+Đáp án: C
+
+Câu 86. Một trong những phương pháp phổ biến nhất để thu thập phản hồi của người dùng là gì?
+A. Sử dụng các công cụ phân tích tự động
+B. Đo lường tốc độ xử lý của hệ thống
+C. Phân tích log hệ thống
+D. Thực hiện các cuộc khảo sát và phỏng vấn người dùng
+Đáp án: D
+
+Câu 87. Nguyên tắc "Nhất quán (consistency)" trong HCI đề cập đến điều gì?
+A. Tính dễ học của hệ thống
+B. Tính khả năng tùy chỉnh của hệ thống
+C. Sự nhất quán trong thiết kế và hoạt động của hệ thống
+D. Tính ổn định của hệ thống
+Đáp án: C
+
+Câu 88. Trí nhớ dài hạn (LTM) bao gồm hai loại chính:
+A. Ký ức và trí nhớ ngắn hạn
+B. Ký ức biểu tượng và ký ức tiếng vang
+C. Phân đoạn và ngữ nghĩa
+D. Ngắn hạn và dài hạn
+Đáp án: C
+
+Câu 89. Phản hồi (feedback) trong HCI có vai trò gì?
+A. Giúp giảm chi phí phát triển phần mềm
+B. Giúp tăng cường tốc độ xử lý của hệ thống
+C. Giúp người dùng biết hệ thống đang làm gì
+D. Giúp bảo mật hệ thống
+Đáp án: C
+
+Câu 90. Khả năng tiếp cận (accessibility) trong HCI đề cập đến điều gì?
+A. Khả năng hệ thống tương thích với nhiều nền tảng
+B. Khả năng người dùng có thể truy cập và sử dụng hệ thống dễ dàng
+C. Khả năng hệ thống xử lý dữ liệu nhanh chóng
+D. Khả năng hệ thống bảo mật thông tin
+Đáp án: B
+
+Câu 91. Khái niệm "Affordance" trong HCI liên quan đến điều gì?
+A. Tính khả dụng của các tính năng hệ thống
+B. Cách mà các yếu tố giao diện gợi ý về cách sử dụng chúng
+C. Khả năng tương thích của hệ thống
+D. Tính bảo mật của hệ thống
+Đáp án: B
+
+Câu 92. Thiết kế phản hồi (responsive design) trong HCI có nghĩa là gì?
+A. Thiết kế giao diện tối ưu cho tốc độ xử lý
+B. Thiết kế giao diện có phản hồi ngay lập tức
+C. Thiết kế giao diện có thể điều chỉnh kích thước và hình dạng dựa trên thiết bị người dùng
+D. Thiết kế giao diện dựa trên phản hồi của người dùng
+Đáp án: C
+
+Câu 93. Phương pháp "Heuristic Evaluation" trong HCI được sử dụng để làm gì?
+A. Đánh giá tốc độ xử lý của hệ thống
+B. Đánh giá tính khả dụng của hệ thống dựa trên các nguyên tắc thiết kế
+C. Đánh giá khả năng bảo mật của hệ thống
+D. Đánh giá chi phí phát triển hệ thống
+Đáp án: B
+
+Câu 94. Một nguyên tắc quan trọng trong thiết kế giao diện người dùng là gì?
+A. Tăng cường bảo mật hệ thống
+B. Giảm thiểu số lần người dùng phải nhấp chuột
+C. Tối ưu hóa tốc độ xử lý của hệ thống
+D. Tăng cường độ phức tạp của giao diện
+Đáp án: B
+
+Câu 95. Mô hình tinh thần (Mental Model) trong HCI đề cập đến điều gì?
+A. Cách người dùng hình dung về cách hệ thống hoạt động
+B. Cách hệ thống xử lý thông tin
+C. Cách phần cứng tương tác với phần mềm
+D. Cách bảo mật được thực hiện trong hệ thống
+Đáp án: A
+
+Câu 96. Trong HCI, thông tin vào/ra KHÔNG bao gồm
+A. Xúc giác
+B. Vị giác
+C. Thính giác
+D. Thị giác
+Đáp án: B
+
+Câu 97. Trí nhớ ngắn hạn (STM) có khả năng chứa được:
+A. Khoảng 5±2 khối thông tin
+B. Khoảng 7±2 khối thông tin
+C. Khoảng 9±2 khối thông tin
+D. Khoảng 11±2 khối thông tin
+Đáp án: B
+
+Câu 98. Thời gian phản ứng của con người đối với kích thích thị giác là khoảng
+A. 150ms
+B. 200ms
+C. 300ms
+D. 700ms
+Đáp án: B
+
+Câu 99. Thính giác cung cấp thông tin về môi trường như:
+A. Độ sáng và màu sắc
+B. Khoảng cách và phương hướng
+C. Kích thước và độ sâu
+D. Nhiệt độ và áp lực
+Đáp án: B
+
+Câu 100. Cảm xúc có thể ảnh hưởng đến khả năng con người như thế nào?
+A. Chỉ ảnh hưởng đến thị giác
+B. Chỉ ảnh hưởng đến thính giác
+C. Ảnh hưởng đến khả năng giải quyết vấn đề
+D. Không ảnh hưởng gì
+Đáp án: C
+
+Câu 101. Lý luận diễn dịch là:
+A. Rút ra kết luận cần thiết về mặt logic từ các tiền đề đã cho
+B. Suy luận từ các trường hợp đã quan sát để đưa ra kết luận tổng quát
+C. Suy luận từ sự kiện đến nguyên nhân
+D. Quá trình tìm ra giải pháp cho một nhiệm vụ không quen thuộc
+Đáp án: A
+
+Câu 102. Theo lý thuyết James-Lange, cảm xúc là
+A. Một phản ứng tâm lý đối với một kích thích
+B. Sự giải thích của chúng ta về phản ứng sinh lý đối với một kích thích
+C. Kết quả của việc chúng ta đánh giá các phản ứng sinh lý của mình
+D. Không có sự liên quan đến kích thích
+Đáp án: B
+
+Câu 103. Mô hình Norman về tương tác người máy gồm mấy bước cơ bản:
+A. 4
+B. 5
+C. 6
+D. 7
+Đáp án: D
+
+Câu 104. Trong khung tương tác của Abowd & Beale, thành phần nào sau đây không phải là một phần của khung?
+A. Người dùng
+B. Đầu vào
+C. Mạng máy tính
+D. Đầu ra
+Đáp án: C
+
+Câu 105. Trong lý luận quy nạp, kết luận tổng quát từ các trường hợp đã quan sát có thể:
+A. Chắc chắn đúng
+B. Chỉ có thể chứng minh là sai, không chắc chắn đúng
+C. Không bao giờ sai
+D. Luôn luôn đúng
+Đáp án: B
+
+Câu 106. Thời gian đáp ứng với kích thích phụ thuộc vào:
+A. Độ tuổi và thể lực
+B. Giới tính và nghề nghiệp
+C. Trình độ học vấn và sở thích
+D. Thời gian nghỉ ngơi và chế độ ăn uống
+Đáp án: A
+
+Câu 107. Trong khung tương tác của Abowd & Beale, mục đích của người dùng được chuyển thành:
+A. Trạng thái hệ thống
+B. Hành động tại giao diện
+C. Màn hình đầu ra
+D. Ngôn ngữ hệ thống
+Đáp án: B
+
+Câu 108. Một yếu tố của công thái học (ergonomics) là:
+A. Bộ nhớ và xử lý
+B. Sắp xếp các điều khiển và hiển thị
+C. Thời gian phản ứng và vận động
+D. Trí nhớ ngắn hạn và dài hạn
+Đáp án: B
+
+Câu 109. Một ví dụ về tương tác trực tiếp là:
+A. Nhập lệnh bằng bàn phím
+B. Sử dụng chuột để kéo thả đối tượng
+C. Sử dụng macro trong phần mềm
+D. Lập trình bằng ngôn ngữ máy
+Đáp án: B
+
+Câu 110. Phương pháp nào sau đây là một ví dụ của tương tác không trực tiếp?
+A. Nhập liệu bằng giọng nói
+B. Sử dụng giao diện dòng lệnh
+C. Kéo thả đối tượng bằng chuột
+D. Chạm vào màn hình cảm ứng
+Đáp án: B
+
+Câu 111. Quy trình phát triển giao diện người dùng theo mô hình HCD (Human-Centric Design) bao gồm bước nào sau đây?
+A. Thiết kế giao diện dựa trên kiến của chuyên gia
+B. Đánh giá giao diện bằng cách thu thập phản hồi từ người dùng
+C. Phát triển giao diện mà không cần kiến từ người dùng
+D. Thiết kế giao diện dựa trên yêu cầu kỹ thuật
+Đáp án: B
+
+Câu 112. Phương pháp " Nói lớn khi suy nghĩ (Think-Aloud Protocol)" trong HCI là:
+A. Người dùng mô tả cảm nhận của họ về giao diện
+B. Người dùng suy nghĩ và giải quyết vấn đề một cách âm thầm
+C. Người dùng nói ra suy nghĩ của họ khi tương tác với hệ thống
+D. Người dùng viết ra những suy nghĩ của họ về giao diện
+Đáp án: C
+
+Câu 113. Trong lý thuyết về khả năng nhận thức, "Sự chú ý (Attention)" đề cập đến:
+A. Khả năng ghi nhớ thông tin
+B. Khả năng phân tích thông tin
+C. Khả năng suy luận từ thông tin đã biết
+D. Khả năng tập trung vào thông tin quan trọng
+Đáp án: D
+
+Câu 114. Giao diện công nghiệp truyền thống thường bao gồm:
+A. Màn hình và bàn phím
+B. Mặt số và núm xoay
+C. Giao diện cảm ứng
+D. Điều khiển bằng giọng nói
+Đáp án: B
+
+Câu 115. Một ưu điểm của giao diện kính (glass interface) là:
+A. Không làm mất bối cảnh
+B. Cố định ở vị trí vật lý
+C. Chi phí tốt hơn
+D. Ít linh hoạt hơn
+Đáp án: A
+
+Câu 116. Trong công thái học (ergonomics), yếu tố nào sau đây là quan trọng nhất?
+A. Tính thẩm mỹ của giao diện
+B. Khả năng phản hồi nhanh
+C. Sự thoải mái và hiệu quả khi sử dụng
+D. Tính phức tạp của hệ thống
+Đáp án: C
+
+Câu 117. Một vấn đề phổ biến trong giao diện công nghiệp là:
+A. Giao diện phức tạp
+B. Phản hồi chậm
+C. Phản hồi nhanh
+D. Giao diện đơn giản
+Đáp án: A
+
+Câu 118. Giao diện dòng lệnh thường được sử dụng cho:
+A. Người dùng có kinh nghiệm
+B. Thao tác trực tiếp
+C. Tương tác đồ họa
+D. Người dùng mới bắt đầu
+Đáp án: A
+
+Câu 119. WIMP là viết tắt của:
+A. Windows, Icons, Menus, and Pointer
+B. Windows, Information, Menus, and Programs
+C. Web, Icons, Menus, and Pointer
+D. Windows, Icons, Methods, and Programs
+Đáp án: A
+
+Câu 120. Trong hệ thống WIMP, yếu tố nào sau đây KHÔNG có?
+A. Cửa sổ
+B. Biểu tượng
+C. Điều khiển bằng giọng nói
+D. Con trỏ
+Đáp án: C
+
+Câu 121. Bối cảnh xã hội và tổ chức có thể ảnh hưởng đến:
+A. Tốc độ xử lý của hệ thống
+B. Cách người dùng tương tác với hệ thống
+C. Tính thẩm mỹ của giao diện
+D. Khả năng của hệ thống
+Đáp án: B
+
+Câu 122. Trong thiết kế giao diện, sự cân bằng giữa công thái học và vật lý có thể đạt được bằng cách:
+A. Giảm bớt các chức năng
+B. Tăng độ phức tạp của hệ thống
+C. Loại bỏ hoàn toàn công thái học
+D. Tăng kích thước của điều khiển
+Đáp án: D
+
+Câu 123. Người dùng sẽ sử dụng một hệ thống HCI nếu:
+A. Hệ thống có giao diện đẹp
+B. Giá trị vượt quá chi phí
+C. Hệ thống phức tạp
+D. Hệ thống đắt tiền
+Đáp án: B
+
+Câu 124. Sự thất vọng và thiếu động lực trong sử dụng hệ thống thường xuất phát từ:
+A. Giao diện đẹp mắt
+B. Hệ thống không hoàn thiện
+C. Tốc độ xử lý nhanh
+D. Tính năng phong phú
+Đáp án: B
+
+Câu 125. Thiết kế tương tác là gì theo Rogers và Preece (2019)?
+A. Thiết kế các sản phẩm tương tác để hỗ trợ cách mọi người giao tiếp và tương tác trong cuộc sống hàng ngày và công việc của họ.
+B. Thiết kế không gian để giao tiếp và tương tác của con người.
+C. Thiết kế giao diện người dùng cho các ứng dụng di động.
+D. Thiết kế phần mềm để người dùng dễ dàng sử dụng.
+Đáp án: A
+
+Câu 126. Thiết kế tương tác cần quan tâm đến những yếu tố nào?
+A. Người dùng là ai.
+B. Những hoạt động nào đang được thực hiện.
+C. Nơi diễn ra sự tương tác.
+D. Tất cả các yếu tố trên.
+Đáp án: D
+
+Câu 127. Nguyên tắc thiết kế lấy con người làm trung tâm bao gồm những gì?
+A. Tập trung sớm vào người dùng và nhiệm vụ.
+B. Đo lường thực nghiệm.
+C. Thiết kế lặp lại.
+D. Tất cả các nguyên tắc trên.
+Đáp án: D
+
+Câu 128. Loại thiết kế nào KHÔNG được nhấn mạnh trong thiết kế tương tác?
+A. Thiết kế giao diện người dùng.
+B. Thiết kế lặp lại.
+C. Thiết kế phần mềm.
+D. Thiết kế trải nghiệm (UX).
+Đáp án: C
+
+Câu 129. Mô hình trải nghiệm người dùng của Hassenzahl (2010) bao gồm những khía cạnh nào?
+A. Thực dụng và hưởng thụ
+B. Thực tế và cảm xúc
+C. Sáng tạo và thích thú
+D. An toàn và tiện ích
+Đáp án: A
+
+Câu 130. Nguyên tắc nào sau đây KHÔNG là một phần của thiết kế tương tác?
+A. Phản hồi (Feedback)
+B. An toàn (Safety)
+C. Hiển thị (Visibility)
+D. Tính nhất quán (Consistency)
+Đáp án: B
+
+Câu 131. Tính nhất quán bên trong và bên ngoài khác nhau như thế nào?
+A. Tính nhất quán bên trong đề cập đến việc thiết kế các hoạt động để hoạt động giống nhau trong một ứng dụng.
+B. Tính nhất quán bên ngoài đề cập đến việc thiết kế các hoạt động, giao diện, v.v. giống nhau trên các ứng dụng và thiết bị.
+C. Tính nhất quán bên ngoài dễ đạt được hơn tính nhất quán bên trong.
+D. A và B đúng.
+Đáp án: D
+
+Câu 132. Mô hình kim cương kép (Double Diamond) trong thiết kế tương tác đề cập đến điều gì?
+A. Quá trình khám phá và xác định các vấn đề thiết kế, sau đó phát triển và phân phối các giải pháp.
+B. Một phương pháp để đánh giá trải nghiệm người dùng.
+C. Một kỹ thuật để tạo ra các nguyên mẫu thiết kế.
+D. Một cách tiếp cận để tích hợp thiết kế tương tác với phát triển phần mềm linh hoạt.
+Đáp án: A
+
+Câu 133. Quy trình thiết kế tương tác KHÔNG bao gồm những hoạt động nào?
+A. Thiết kế các lựa chọn thay thế.
+B. Nguyên mẫu và đánh giá.
+C. Nhất quán bên trong và bên ngoài
+D. Khám phá yêu cầu.
+Đáp án: C
+
+Câu 134. Nguyên tắc thiết kế nào giúp hạn chế các hành động có thể được thực hiện?
+A. Phản hồi (Feedback)
+B. Hiển thị (Visibility)
+C. Tính nhất quán (Consistency)
+D. Ràng buộc (Constraints)
+Đáp án: D
+
+Câu 135. Nguyên tắc thiết kế nào giúp đảm bảo người dùng dễ dàng hiểu cách sử dụng sản phẩm?
+A. Chi trả (Affordance)
+B. Nhất quán (Consistency)
+C. Hiển thị (Visibility)
+D. Phản hồi (Feedback)
+Đáp án: C
+
+Câu 136. Nguyên tắc thiết kế nào giúp đảm bảo các hoạt động và yếu tố trong giao diện giống nhau cho các nhiệm vụ tương tự?
+A. Nhất quán (Consistency)
+B. Hiển thị (Visibility)
+C. Phản hồi (Feedback)
+D. Ràng buộc (Constraints)
+Đáp án: A
+
+Câu 137. Nguyên tắc "học và cải tiến liên tục" trong thiết kế tương tác có nghĩa là gì?
+A. Thiết kế ban đầu phải hoàn hảo và không cần thay đổi.
+B. Người dùng phải liên tục học cách sử dụng hệ thống
+C. Chỉ cần cải tiến khi hệ thống gặp lỗi.
+D. Quy trình thiết kế phải liên tục được kiểm tra và cải tiến dựa trên phản hồi của người dùng.
+Đáp án: D
+
+Câu 138. Trong thiết kế tương tác, trạng thái "dòng chảy (flow)" liên quan đến điều gì?
+A. Cách người dùng di chuyển qua các bước của một quy trình.
+B. Cảm giác hứng thú và hoàn toàn chìm đắm trong hoạt động.
+C. Cách giao diện được sắp xếp.
+D. Tính năng của sản phẩm.
+Đáp án: B
+
+Câu 139. Trạng thái "tâm lý người dùng" có ảnh hưởng gì đến thiết kế tương tác?
+A. Ảnh hưởng đến giai đoạn thử nghiệm
+B. Ảnh hưởng đến cách người dùng phản ứng với giao diện và hiệu suất của họ.
+C. Không có ảnh hưởng đáng kể.
+D. Ảnh hưởng đến thiết kế đồ họa.
+Đáp án: B
+
+Câu 140. Thiết kế tương tác yêu cầu phải đánh giá những gì từ người dùng?
+A. Các hoạt động xã hội của họ.
+B. Các mục tiêu và nhu cầu của họ khi sử dụng sản phẩm
+C. Thói quen hàng ngày của họ.
+D. Trình độ học vấn của họ.
+Đáp án: B
+
+Câu 141. "Phân cấp thông tin" (information hierarchy) trong thiết kế giao diện là gì?
+A. Sắp xếp thông tin theo thứ tự ngẫu nhiên.
+B. Sắp xếp thông tin dựa trên mức độ quan trọng và tần suất sử dụng.
+C. Sắp xếp thông tin theo thứ tự alphabet.
+D. Sắp xếp thông tin dựa trên sở thích cá nhân của nhà thiết kế.
+Đáp án: B
+
+Câu 142. Khi nào nên sử dụng nguyên mẫu (prototype) trong quy trình thiết kế tương tác?
+A. Khi có đủ kinh phí
+B. Sau khi sản phẩm hoàn chỉnh
+C. Khi gặp vấn đề khi sử dụng
+D. Ngay từ đầu để thu thập phản hồi sớm
+Đáp án: D
+
+Câu 143. Tại sao phân tích nhiệm vụ (task analysis) lại quan trọng trong thiết kế tương tác?
+A. Đảm bảo rằng sản phẩm có giao diện đẹp mắt
+B. Giúp xác định các bước cần thiết để hoàn thành một nhiệm vụ
+C. Tăng doanh số bán hàng
+D. Giảm chi phí phát triển
+Đáp án: B
+
+Câu 144. Khái niệm "tải nhận thức (cognitive load)" trong thiết kế tương tác là gì?
+A. Khả năng chịu tải (load) của hệ thống xử lý dữ liệu
+B. Mức độ khó khăn mà người dùng gặp phải khi xử lý thông tin
+C. Chi phí để phát triển sản phẩm
+D. Thời gian hoàn thành nhiệm vụ
+Đáp án: B
+
+Câu 145. "Ngữ cảnh sử dụng" (context of use) trong thiết kế tương tác liên quan đến điều gì?
+A. Các ngữ cảnh của giao diện đồ họa
+B. Môi trường và tình huống mà người dùng sử dụng sản phẩm.
+C. Các ngữ cảnh của chi phí sử dụng
+D. Các tính năng của sản phẩm.
+Đáp án: B
+
+Câu 146. Làm sao để xác định "người dùng mục tiêu" (target users) trong thiết kế tương tác?
+A. Dựa trên những người không sử dụng sản phẩm.
+B. Dựa trên quan điểm người sử dụng của nhà sản xuất
+C. Dựa trên những người sẽ sử dụng sản phẩm.
+D. Dựa trên sở thích cá nhân của người sử dụng
+Đáp án: C
+
+Câu 147. Làm thế nào để đo lường hiệu quả của một thiết kế tương tác?
+A. Bằng cách kiểm tra tính năng của sản phẩm
+B. Bằng cách thu thập phản hồi từ người dùng và phân tích dữ liệu sử dụng
+C. Bằng cách tăng doanh số bán hàng do phát triển HCI
+D. Bằng cách giảm chi phí phát triển HCI
+Đáp án: B
+
+Câu 148. Khái niệm "người dùng giả định" (personas) trong thiết kế tương tác là gì?
+A. Mô hình giả định về các nhóm người không sử dụng toàn bộ tính năng thiết kế
+B. Mô hình giả định về các nhóm người dùng quan tâm đến tính năng thiết kế
+C. Mô hình giả định về các nhóm người dùng điển hình để hướng dẫn thiết kế
+D. Mô hình giả định về các nhóm người dùng quan tâm đến chi phí thiết kế
+Đáp án: C
+
+Câu 149. Làm thế nào để giảm "tải nhận thức" (cognitive load) trong thiết kế tương tác?
+A. Bằng cách thiết kế giao diện đơn giản, dễ hiểu và quy trình làm việc khá phức tạp
+B. Bằng cách thiết kế giao diện phức tạp nhưng dễ học và có thể tối ưu hóa quy trình làm việc.
+C. Bằng cách thiết kế giao diện đơn giản, dễ hiểu, và tối ưu hóa quy trình làm việc.
+D. Bằng cách thiết kế giao diện đơn giản, cần thời gian học sử dụng dài, nhưng có thể tối ưu hóa quy trình làm việc.
+Đáp án: C
+
+Câu 150. Nhận thức là gì?
+A. Suy nghĩ, ghi nhớ, học tập, mơ mộng, ra quyết định, nhìn, đọc, nói, viết...
+B. Ghi nhớ, học tập, ra quyết định, đọc, nói, viết...
+C. Suy nghĩ, ghi nhớ, học tập, đọc, nói, viết...
+D. Suy nghĩ, ghi nhớ, học tập, ra quyết định,...
+Đáp án: A
+
+Câu 151. Hai loại nhận thức phổ biến là gì?
+A. Nhận thức trực quan và nhận thức thính giác
+B. Nhận thức trải nghiệm và phản ánh
+C. Nhận thức nhanh và nhận thức chậm
+D. Nhận thức có ý thức và nhận thức không ý thức
+Đáp án: B
+
+Câu 152. Theo Kahneman, tư duy nhanh thường liên quan đến:
+A. Giải quyết các vấn đề đòi hỏi sự suy nghĩ cẩn thận
+B. Đưa ra quyết định dựa trên trực giác
+C. Phân tích dữ liệu phức tạp
+D. Cân nhắc kỹ lưỡng các lựa chọn trước khi hành động
+Đáp án: B
+
+Câu 153. Khả năng tập trung của con người như thế nào?
+A. Có thể duy trì sự tập trung trong thời gian dài mà không cần nghỉ ngơi
+B. Không bị ảnh hưởng bởi các yếu tố bên ngoài
+C. Có thể tập trung vào vô số tác nhân kích thích cùng một lúc
+D. Bị giới hạn bởi số lượng thông tin có thể xử lý cùng một lúc
+Đáp án: D
+
+Câu 154. Khi thiết kế giao diện, nên làm gì để thu hút sự chú ý của người dùng?
+A. Sử dụng nhiều màu sắc sặc sỡ và nhấp nháy
+B. Cung cấp nhiều thông tin chi tiết trên màn hình
+C. Sử dụng cấu trúc rõ ràng và phân cấp thông tin hợp lý
+D. Sử dụng âm thanh lớn gây chú ý
+Đáp án: C
+
+Câu 155. Theo Weller, mọi người mất bao nhiêu thời gian để xác định vị trí các mục thông tin được nhóm lại theo nhóm?
+A. Ít thời gian hơn so với các mục thông tin được sắp xếp ngẫu nhiên
+B. Nhiều thời gian hơn so với các mục thông tin được sắp xếp ngẫu nhiên
+C. Cùng thời gian so với các mục thông tin được sắp xếp ngẫu nhiên
+D. Tất cả các câu trên đều SAI
+Đáp án: A
+
+Câu 156. Khi nào việc thiết kế giao diện nên dựa trên nhận thức (recognition) hơn là gợi nhớ (recall)?
+A. Khi người dùng cần nhập thông tin
+B. Khi người dùng cần thực hiện các thao tác phức tạp
+C. Khi người dùng cần học hỏi thông tin mới
+D. Khi người dùng cần tìm kiếm thông tin
+Đáp án: D
+
+Câu 157. Khi nào việc thiết kế giao diện nên giới hạn số lượng tùy chọn?
+A. Luôn luôn nên giới hạn số lượng tùy chọn
+B. Khi người dùng cần ghi nhớ các tùy chọn
+C. Khi người dùng cần thực hiện các thao tác nhanh chóng
+D. Tuy theo số lượng tùy chọn
+Đáp án: C
+
+Câu 158. Con người có thể KHÔNG gặp khó khăn trong việc ghi nhớ thông tin?
+A. Khi thông tin quá dài và phức tạp
+B. Khi thông tin liên kết với kiến thức hiện có
+C. Khi thông tin được mã hóa trong một ngữ cảnh khác
+D. Khi thông tin không được liên kết với kiến thức hiện có
+Đáp án: B
+
+Câu 159. Theo Norman, hai loại sai lầm phổ biến mà người dùng mắc phải khi sử dụng công nghệ là gì?
+A. Sai lầm do thiếu hiểu biết và sai lầm do thực hiện sai thao tác
+B. Sai lầm do thiếu thông tin và sai lầm do quá tải thông tin
+C. Sai lầm do thiếu kinh nghiệm và sai lầm do thiết kế kém
+D. Sai lầm do chủ quan và sai lầm do khách quan
+Đáp án: A
+
+Câu 160. Loại học tập nào liên quan đến việc tích lũy các kỹ năng và kiến thức liên quan đến trí nhớ?
+A. Học tập ngẫu nhiên
+B. Học tập có chủ đích
+C. Học tập theo nhóm
+D. Học tập bằng cách quan sát
+Đáp án: B
+
+Câu 161. Khi nào việc thiết kế giao diện nên khuyến khích khám phá?
+A. Khi người dùng cần học hỏi thông tin mới
+B. Khi người dùng cần thực hiện các thao tác phức tạp
+C. Khi người dùng cần ghi nhớ nhiều thông tin
+D. Khi người dùng cần đưa ra quyết định nhanh chóng
+Đáp án: A
+
+Câu 162. Hệ thống ngôn ngữ tự nhiên KHÔNG cho phép người dùng thực hiện điều gì?
+A. Tương tác bằng giọng nói với máy tính
+B. Nhập câu hỏi và nhận câu trả lời bằng văn bản
+C. Dịch văn bản từ ngôn ngữ này sang ngôn ngữ khác
+D. Sử dụng giọng nói ra lệnh thực hiện các thao tác phức tạp
+Đáp án: D
+
+Câu 163. Mô hình nào được sử dụng để giải thích cách con người thực hiện các hành động phức tạp, chẳng hạn như lập kế hoạch và giải quyết vấn đề?
+A. Mô hình trí tuệ
+B. Mô hình nhận thức
+C. Mô hình hành vi
+D. Mô hình xử lý thông tin
+Đáp án: D
+
+Câu 164. Khi nào việc thiết kế giao diện nên sử dụng các biểu tượng thay vì văn bản?
+A. Khi người dùng cần học ngôn ngữ mới
+B. Khi người dùng cần ghi nhớ nhiều thông tin
+C. Khi người dùng cần thực hiện các thao tác nhanh chóng
+D. Khi người dùng đến từ các nền văn hóa khác nhau
+Đáp án: D
+
+Câu 165. Khi nào việc thiết kế giao diện nên sử dụng các chức năng đơn giản và dễ nhớ?
+A. Khi người dùng cần học hỏi thông tin mới
+B. Khi người dùng cần thực hiện các thao tác phức tạp
+C. Khi người dùng cần ra quyết định nhanh chóng
+D. Khi người dùng cần ghi nhớ nhiều thông tin
+Đáp án: C
+
+Câu 166. Các yếu tố nào sau đây KHÔNG ảnh hưởng đến cách con người ghi nhớ thông tin?
+A. Cấu trúc và tổ chức của thông tin
+B. Mức độ chú ý của người dùng khi tiếp nhận thông tin
+C. Phân loại và lưu trữ thông tin, và truy xuất thông tin
+D. Mức độ liên quan của thông tin với kiến thức hiện có của người dùng
+Đáp án: C
+
+Câu 167. Khi nào việc thiết kế giao diện nên sử dụng các chức năng đa phương tiện, chẳng hạn như video và âm thanh?
+A. Khi người dùng cần học ngôn ngữ mới
+B. Khi người dùng cần ghi nhớ nhiều thông tin
+C. Khi người dùng cần thực hiện các thao tác nhanh chóng
+D. Khi người dùng cần xử lý thông tin phức tạp
+Đáp án: D
+
+Câu 168. Khi nào việc thiết kế giao diện nên sử dụng các hướng dẫn dựa trên ngữ cảnh?
+A. Khi người dùng cần học ngôn ngữ mới
+B. Khi người dùng cần thực hiện các nhiệm vụ phức tạp
+C. Khi người dùng cần thực hiện các thao tác nhanh chóng
+D. Khi người dùng cần ghi nhớ nhiều thông tin
+Đáp án: B
+
+Câu 169. Các yếu tố nào sau đây KHÔNG ảnh hưởng đến khả năng tập trung của con người?
+A. Mức độ căng thẳng và lo lắng
+B. Chất lượng giấc ngủ
+C. Mức độ kích thích của môi trường xung quanh
+D. Áp lực và ảnh hưởng của người khác
+Đáp án: D
+
+Câu 170. Khi nào việc thiết kế giao diện nên sử dụng các chức năng trợ giúp thông minh?
+A. Khi người dùng cần thực hiện các thao tác nhanh chóng
+B. Khi người dùng cần ghi nhớ nhiều thông tin
+C. Khi người dùng cần thực hiện các nhiệm vụ phức tạp và nhiều bước
+D. Khi người dùng cần học ngôn ngữ mới
+Đáp án: C
+
+Câu 171. Các yếu tố nào sau đây KHÔNG ảnh hưởng đến khả năng học tập của con người?
+A. Mức độ động lực và hứng thú của người học
+B. Phương pháp giảng dạy và chất lượng tài liệu học tập
+C. Khả năng tập trung và ghi nhớ thông tin của người học
+D. Áp lực và ảnh hưởng của gia đình và xã hội
+Đáp án: D
+
+Câu 172. Tương tác xã hội là gì?
+A. Quá trình giao tiếp giữa các hệ thống máy tính
+B. Quá trình giao tiếp và kết nối giữa con người
+C. Quá trình giao tiếp giữa con người và động vật
+D. Quá trình giao tiếp giữa các hệ thống AI
+Đáp án: B
+
+Câu 173. Ý nghĩa của sự hiện diện xã hội là gì?
+A. Cảm giác bị ngắt kết nối với xã hội
+B. Cảm giác cô lập khi sử dụng công nghệ
+C. Cảm giác có mặt thực tế của người khác trong môi trường ảo
+D. Cảm giác bị kiểm soát bởi công nghệ
+Đáp án: C
+
+Câu 174. Quy tắc nào sau đây thuộc về quy tắc hội thoại?
+A. Người đang nói tiếp tục nói cho đến khi người khác ngắt lời
+B. Người đang nói chọn người phát biểu tiếp theo
+C. Người khác quyết định khi nào bắt đầu nói
+D. Người phát biểu tiếp theo tự quyết định khi nào ngừng nói
+Đáp án: B
+
+Câu 175. Một quy tắc xã hội mới trong thời COVID-19 là gì?
+A. Sử dụng biểu tượng cảm xúc khi giao tiếp trực tiếp
+B. Tự tắt tiếng khi không nói chuyện trong hội nghị truyền hình
+C. Chào hỏi nhau bằng cách bắt tay
+D. Ngồi gần nhau trong phòng họp
+Đáp án: B
+
+Câu 176. Hiện diện từ xa (telepresence) là gì?
+A. Sử dụng mạng xã hội để kết nối
+B. Sử dụng điện thoại di động để gọi điện
+C. Sử dụng camera độ phân giải cao với tính năng theo dõi mắt và micrô định hướng để họp trực tuyến
+D. Sử dụng email để giao tiếp
+Đáp án: C
+
+Câu 177. Các công cụ cộng tác trực tuyến bao gồm:
+A. Xem phim trực tuyến
+B. Chia sẻ lịch và xử lý văn bản
+C. Gửi email và nhắn tin văn bản
+D. Chơi game trực tuyến
+Đáp án: B
+
+Câu 178. Nhận thức tình huống là gì?
+A. Nhận thức được những gì đang xảy ra xung quanh để hiểu thông tin và hành động của bạn
+B. Nhận thức được người khác đang nói chuyện với ai để hiểu thông tin và hành động của bạn
+C. Nhận thức được các quy tắc hội thoại để hiểu thông tin và hành động và hành động của người khác
+D. Nhận thức được trạng thái cảm xúc của người khác để hiểu thông tin và hành động của bạn
+Đáp án: A
+
+Câu 179. Giao tiếp có thể chia sẻ được thiết kế để
+A. Hỗ trợ chia sẻ văn bản và tăng cường nhận thức hiện có
+B. Hỗ trợ các hình thức phối hợp và cơ chế nhận thức hiện có
+C. Hỗ trợ chia sẻ trò chơi trực tuyến và phối hợp hợp tác nhiều người chơi
+D. Hỗ trợ chia sẻ trò chơi trực tuyến và tăng cường nhận thức hiện có
+Đáp án: B
+
+Câu 180. Mục tiêu của AI cảm xúc (Emotion AI) là:
+A. Dự đoán hành vi của người dùng và tạo ra các trò chơi trực tuyến
+B. Dự đoán cảm xúc của người dùng và các khía cạnh trong hành vi của họ
+C. Dự đoán cảm xúc của người dùng và phát triển các hệ thống AI mới
+D. Dự đoán cảm xúc và hành vi người dùng để tạo ra các ứng dụng AI
+Đáp án: B
+
+Câu 181. Một yếu tố làm cho giao diện biểu cảm trở nên hấp dẫn là:
+A. Sử dụng màu sắc, biểu tượng, âm thanh và yếu tố đồ họa
+B. Sử dụng nhiều văn bản kết hợp đồ họa
+C. Sử dụng hình ảnh động kết hợp âm thanh
+D. Sử dụng văn bản đơn giản kết hợp màu sắc, đồ họa
+Đáp án: A
+
+Câu 182. Mục đích của việc sử dụng dữ liệu về cảm xúc trong quảng cáo là:
+A. Điều chỉnh nội dung để phát triển các quảng cáo mới phù hợp với người dùng
+B. Điều chỉnh nội dung để phù hợp với trạng thái cảm xúc của người dùng
+C. Điều chỉnh cảm xúc và nội dung mới phù hợp với người dùng
+D. Điều chỉnh cảm xúc để phát triển các nội dung mới phù hợp với người dùng
+Đáp án: B
+
+Câu 183. Thuyết nhân hóa trong HCI liên quan đến:
+A. Phát triển các hệ thống AI mới vào những đồ vật vô tri
+B. Tạo ra các trò chơi trực tuyến có những phẩm chất giống con người
+C. Sử dụng mạng xã hội để kết nối những đồ vật vô tri
+D. Gắn những phẩm chất giống con người vào những đồ vật vô tri
+Đáp án: D
+
+Câu 184. Cơ chế xã hội nào KHÔNG thường được sử dụng trong các cuộc hội thoại?
+A. Giao tiếp bằng lời nói
+B. Duy trì các mối quan hệ xã hội
+C. Quy tắc luân phiên phát biểu
+D. Biểu cảm khuôn mặt
+Đáp án: B
+
+Câu 185. Hiện diện xã hội đề cập đến điều gì?
+A. Khả năng giao tiếp hiệu quả trong nhóm
+B. Cảm giác kết nối với người khác qua phương tiện kỹ thuật số
+C. Cảm giác có người cùng hiện diện ở cùng một không gian vật lý
+D. Sự hiện diện của một người trong một cuộc họp video
+Đáp án: B
+
+Câu 186. Điện toán cảm xúc KHÔNG liên quan đến việc gì?
+A. Sử dụng cảm biến sinh học
+B. Thiết kế hệ thống phản hồi cảm xúc
+C. Giao tiếp phi ngôn ngữ
+D. Đo lường cảm xúc qua nét mặt
+Đáp án: C
+
+Câu 187. Biểu cảm khuôn mặt nào thường KHÔNG đo được bằng AI?
+A. Nhíu mày
+B. Thù hận
+C. Mim cười
+D. Nhếch môi trên
+Đáp án: B
+
+Câu 188. Một hệ thống máy tính tương tác có thể làm gì để thay đổi hành vi của người dùng?
+A. Hiển thị quảng cáo cá nhân hóa
+B. Gửi tin nhắn nhắc nhở
+C. Cung cấp đề xuất chỉ bằng một cú nhấp chuột
+D. Tất cả các ý trên
+Đáp án: D
+
+Câu 189. Ví dụ nào sau đây về phản hồi cảm xúc là đúng?
+A. Tâm trạng của người dùng được cải thiện khi sử dụng giao diện
+B. Giao diện điều chỉnh theo cảm xúc của người dùng
+C. Người dùng cảm thấy thoải mái khi tương tác với giao diện
+D. Tất cả các ý trên
+Đáp án: D
+
+Câu 190. Trong giao diện WIMP, "I" đại diện cho từ gì?
+A. Interaction (Tương tác)
+B. Icon (Biểu tượng)
+C. Interface (Giao diện)
+D. Input (Đầu vào)
+Đáp án: B
+
+Câu 191. Ưu điểm chính của biểu tượng (Icon) trong giao diện là gì?
+A. Dễ học và dễ nhớ hơn các lệnh
+B. Tính nhất quán
+C. Tính bảo mật cao
+D. Khả năng mở rộng
+Đáp án: A
+
+Câu 192. Một trong những hạn chế của màn hình gắn trên đầu (HMD) trong thực tế ảo là gì?
+A. Giá thành cao
+B. Gây say tàu xe và mất phương hướng
+C. Thiếu độ chính xác
+D. Không thể tùy chỉnh
+Đáp án: B
+
+Câu 193. Breadcrumbs trong thiết kế website có vai trò gì?
+A. Hiển thị thông tin người dùng
+B. Tạo trải nghiệm thẩm mỹ
+C. Giúp người dùng điều hướng và không mất dấu
+D. Cải thiện tốc độ tải trang
+Đáp án: C
+
+Câu 194. Giao diện nào thường sử dụng phản hồi rung để mô phỏng cảm giác chạm?
+A. Đồ họa
+B. Xúc giác
+C. Thực tế tăng cường (AR)
+D. Robot và máy bay không người lái
+Đáp án: B
+
+Câu 195. Trong giao diện đa phương thức, sự kết hợp phổ biến nhất là gì?
+A. Giọng nói và thị giác
+B. Xúc giác và thị giác
+C. Giọng nói và xúc giác
+D. Thị giác và âm thanh
+Đáp án: A
+
+Câu 196. Giao diện dòng lệnh (command line) có ưu điểm gì?
+A. Dễ học
+B. Hiệu quả và chính xác
+C. Đồ họa đẹp
+D. Dễ dàng sử dụng cho người mới
+Đáp án: B
+
+Câu 197. Menu dạng "Mega" là gì?
+A. Tất cả các tùy chọn hiển thị bằng bố cục thả xuống 2D
+B. Hiển thị nhiều tùy chọn trên cùng một màn hình
+C. Hiển thị các tùy chọn liên quan khi nhấn phím lệnh
+D. Cung cấp quyền truy cập vào các lệnh thường dùng
+Đáp án: A
+
+Câu 198. Trong thiết kế đa phương tiện, việc kết hợp nhiều phương tiện có ưu điểm gì?
+A. Đảm bảo tính nhất quán
+B. Dễ dàng hơn cho người mới học
+C. Tạo điều kiện truy cập nhanh vào nhiều cách thể hiện thông tin
+D. Chi phí thấp
+Đáp án: C
+
+Câu 199. Một trong những lĩnh vực ứng dụng của thực tế ảo (VR) là gì?
+A. Xử lý văn bản
+B. Chữa trị nỗi sợ hãi độ cao
+C. Quản lý tài chính
+D. Xem phim trực tuyến
+Đáp án: B
+
+Câu 200. Giao diện thiết bị gia dụng thường có đặc điểm gì?
+A. Tính thẩm mỹ cao
+B. Thời gian sử dụng ngắn và yêu cầu học tập tối thiểu
+C. Yêu cầu bảo trì thường xuyên
+D. Đòi hỏi kiến thức kỹ thuật cao
+Đáp án: B
+
+Câu 201. Giao diện giọng nói thường được sử dụng cho mục đích gì?
+A. Xử lý văn bản
+B. Hỏi thông tin cụ thể hoặc thực hiện giao dịch
+C. Thiết kế đồ họa
+D. Quản lý dữ liệu
+Đáp án: B
+
+Câu 202. Thiết bị dựa vào bút thường được sử dụng để làm gì?
+A. Chơi game
+B. Gõ văn bản
+C. Vẽ, chú thích tài liệu và chọn đối tượng
+D. Thực hiện giao dịch
+Đáp án: C
+
+Câu 203. Một trong những lợi ích của giao diện thực tế tăng cường (AR) là gì?
+A. Tăng cường trải nghiệm ảo và cung cấp thông tin bổ sung
+B. Tăng cường trải nghiệm thực tế và không cân cung cấp thông tin bổ sung
+C. Tăng cường trải nghiệm thực tế và cung cấp thông tin bổ sung
+D. Tăng cường trải nghiệm bổ sung và cung cấp thông tin ảo
+Đáp án: C
+
+Câu 204. Giao diện không chạm (touchless) sử dụng kỹ thuật nào để nhận biết cử chỉ?
+A. Công nghệ màn hình cảm ứng và công nghệ siêu âm
+B. Công nghệ nhận dạng camera và cảm biến nhiệt
+C. Công nghệ màn hình cảm ứng và thị giác máy tính
+D. Công nghệ nhận dạng camera và thị giác máy tính
+Đáp án: D
+
+Câu 205. Đâu là đặc điểm không phải của giao diện thông minh (smart interface)?
+A. Nhận biết bối cảnh
+B. Tương tác xây dựng con người
+C. Kết nối với internet và các thiết bị khác
+D. Hoạt động độc lập với sự can thiệp của con người
+Đáp án: D
+
+Câu 206. Khi thiết kế giao diện não-máy tính (BCI), vấn đề đạo đức nào sau đây cần được xem xét kỹ lưỡng nhất?
+A. Khả năng gây hại cho não bộ
+B. Quyền riêng tư của suy nghĩ cá nhân
+C. Sự phụ thuộc vào công nghệ
+D. Chi phí phát triển và triển khai
+Đáp án: B
+
+Câu 207. Đâu là ưu điểm chính của giao diện hữu hình (tangible interface) so với các loại giao diện khác?
+A. Dễ dàng sao chép và phân phối
+B. Khả năng xử lý dữ liệu phức tạp
+C. Cho phép nhiều người cùng khám phá và thao tác đồng thời
+D. Tiết kiệm năng lượng hơn
+Đáp án: C
+
+Câu 208. Trong thiết kế giao diện hologram, yếu tố nào sau đây là quan trọng nhất để tạo ra trải nghiệm tự nhiên và không gây cảm giác kỳ quái?
+A. Độ phân giải của hình ảnh
+B. Tốc độ khung hình
+C. Kích thước của ảnh ba chiều
+D. Cách thể hiện và tương tác của người được chiếu
+Đáp án: D
+
+Câu 209. Khi thiết kế giao diện âm thanh, yếu tố nào sau đây là quan trọng nhất để cải thiện trải nghiệm người dùng?
+A. Chất lượng âm thanh
+B. Khả năng nhận diện giọng nói
+C. Mô hình hóa trò chuyện của con người, bao gồm cả khả năng ngắt lời
+D. Đa dạng giọng đọc
+Đáp án: C
+
+Câu 210. Khi so sánh hiệu quả của các loại giao diện khác nhau, yếu tố nào sau đây là quan trọng nhất cần xem xét?
+A. Chi phí phát triển
+B. Độ phức tạp của công nghệ
+C. Sự phù hợp với nhiệm vụ, người dùng và bối cảnh sử dụng
+D. Mức độ sáng tạo của giao diện
+Đáp án: C
+
+Câu 211. Mục tiêu chính của việc thu thập dữ liệu trong tương tác người máy là gì?
+A. Tạo ra lợi nhuận
+B. Lập kế hoạch và thực hiện thu thập dữ liệu thành công
+C. Tăng số lượng người dùng
+D. Tối ưu hóa phần cứng
+Đáp án: B
+
+Câu 212. Tam giác hóa (trianglation) trong thu thập dữ liệu nghĩa là gì?
+A. Sử dụng 3 phương pháp thu thập dữ liệu
+B. Thu thập dữ liệu từ 3 người dùng
+C. Nghiên cứu hiện tượng từ nhiều góc độ
+D. Phân tích dữ liệu bằng 3 phương pháp
+Đáp án: C
+
+Câu 213. Loại phỏng vấn nào cung cấp sự cân bằng giữa sự phong phú và khả năng nhân rộng?
+A. Phỏng vấn không cấu trúc
+B. Phỏng vấn có cấu trúc
+C. Phỏng vấn bán cấu trúc
+D. Nhóm tập trung
+Đáp án: C
+
+Câu 214. Trong thiết kế bảng câu hỏi, điều gì có thể ảnh hưởng đến tác động của một câu hỏi?
+A. Màu sắc của bảng câu hỏi
+B. Thứ tự câu hỏi
+C. Phông chữ sử dụng
+D. Độ dài của bảng câu hỏi
+Đáp án: B
+
+Câu 215. Quan sát trực tiếp trong môi trường tự nhiên bao gồm những loại nào?
+A. Cấu trúc khung và mức độ tham gia
+B. Kỹ thuật nghĩ lớn tiếng (Think Aloud Protocol)
+C. Nhật ký tương tác
+D. Phân tích trang web
+Đáp án: A
+
+Câu 216. Dân tộc học là gì?
+A. Một triết lý phỏng vấn người tham gia phương pháp phỏng vấn
+B. Một triết lý với tập hợp các kỹ thuật bao gồm quan sát và phỏng vấn người tham gia
+C. Một triết lý với tập hợp các kỹ thuật bao gồm phỏng vấn người tham gia và công cụ phân tích
+D. Một triết lý với tập hợp bảng câu hỏi và phỏng vấn người tham gia
+Đáp án: B
+
+Câu 217. Thách thức chính trong việc thiết kế giao diện có thể chia sẻ (shareable interface)?
+A. Kích thước màn hình
+B. Độ phân giải hiển thị
+C. Kết nối giữa các thiết bị, ứng dụng và thời gian để tạo sự tương tác liền mạch
+D. Tốc độ xử lý dữ liệu
+Đáp án: C
+
+Câu 218. Phân tích định lượng cơ bản bao gồm những gì?
+A. Mã hóa và phân loại
+B. Trung bình, trung vị, mode và tỷ lệ phần trăm
+C. Phân tích diễn ngôn
+D. Lý thuyết có căn cứ
+Đáp án: B
+
+Câu 219. Phương pháp nào được sử dụng để phân tích ngữ nghĩa của một cuộc trò chuyện một cách chi tiết?
+A. Phân tích nội dung
+B. Phân tích tương tác
+C. Phân tích cuộc hội thoại
+D. Lý thuyết có căn cứ
+Đáp án: C
+
+Câu 220. Lý thuyết có căn cứ bao gồm bao nhiêu cấp độ mã hóa?
+A. 2
+B. 3
+C. 4
+D. 5
+Đáp án: B
+
+Câu 221. Phương pháp nào được sử dụng để suy ra điều mà một nhóm người đang cảm thấy hoặc nói?
+A. Phân tích diễn ngôn
+B. Phân tích nội dung
+C. Phân tích tình cảm
+D. Phân tích mạng xã hội
+Đáp án: C
+
+Câu 222. Câu thần chú của Ben Shneiderman về trực quan hóa dữ liệu là gì?
+A. "Đầu tiên là chi tiết, sau đó là tổng quan"
+B. "Đầu tiên là tổng quan, thu phóng và lọc, sau đó là chi tiết theo yêu cầu"
+C. "Luôn bắt đầu với dữ liệu thô"
+D. "Trực quan hóa là chìa khóa cho mọi phân tích"
+Đáp án: B
+
+Câu 223. Mục tiêu chính của các công cụ trực quan hóa dữ liệu là gì?
+A. Tạo ra đồ họa đẹp mắt
+B. Thay thế phân tích thống kê
+C. Tăng cường nhận thức của con người
+D. Tăng tốc độ xử lý dữ liệu
+Đáp án: C
+
+Câu 224. Kỹ thuật nào được sử dụng để phân tích "bạn biết ai" ở cấp độ cá nhân?
+A. Phân tích mạng xã hội
+B. Phân tích tình cảm
+C. Phân tích diễn ngôn
+D. Phân tích nội dung
+Đáp án: A
+
+Câu 225. Trong phân tích định tính, mã hóa quy nạp nghĩa là gì?
+A. Áp dụng các mã được xác định trước
+B. Phát triển mã từ dữ liệu
+C. Sử dụng phần mềm để mã hóa
+D. Mã hóa dựa trên lý thuyết
+Đáp án: B
+
+Câu 226. Phương pháp nào tập trung vào ý nghĩa của điều được nói và cách các từ truyền đạt ý nghĩa?
+A. Phân tích cuộc hội thoại
+B. Phân tích nội dung
+C. Phân tích diễn ngôn
+D. Phân tích tương tác
+Đáp án: C
+
+Câu 227. Dữ liệu lớn có thể bao gồm những loại dữ liệu nào?
+A. Chỉ số liệu
+B. Chỉ hình ảnh
+C. Chỉ văn bản
+D. Số liệu, hình ảnh, văn bản, video và nhiều loại khác
+Đáp án: D
+
+Câu 228. Một trong những thách thức chính của việc sử dụng dữ liệu lớn trong thiết kế tương tác là gì?
+A. Thiếu dữ liệu
+B. Khó khăn thu thập dữ liệu
+C. Vấn đề về quyền riêng tư và đạo đức
+D. Tốc độ xử lý chậm
+Đáp án: C
+
+Câu 229. Kỹ thuật nào được sử dụng trong eXplainable AI (XAI) để hiển thị các khu vực quan trọng trong hình ảnh đầu vào?
+A. Heat map
+B. Saliency map
+C. Scatter plot
+D. Clustering
+Đáp án: B
+
+Câu 230. Nguyên tắc nào KHÔNG phải là một trong các nguyên tắc về đạo đức dữ liệu được đề cập?
+A. Công bằng
+B. Trách nhiệm giải trình
+C. Tính minh bạch
+D. Tốc độ xử lý
+Đáp án: D
+
+Câu 231. Phương pháp nào được sử dụng để điều tra và hiểu sự tương tác giữa con người với nhau và với đồ vật?
+A. Phân tích nội dung
+B. Phân tích diễn ngôn
+C. Phân tích tương tác
+D. Phân tích mạng xã hội
+Đáp án: C
+
+Câu 232. Trong bối cảnh phân tích dữ liệu định tính, sự kết hợp giữa phương pháp quy nạp và diễn dịch có ý nghĩa gì?
+A. Tăng tốc độ phân tích
+B. Giảm thiểu sai sót
+C. Cân bằng giữa phát triển lý thuyết từ dữ liệu và áp dụng khung lý thuyết sẵn có
+D. Tăng tính khách quan của nghiên cứu
+Đáp án: C
+
+Câu 233. Làm thế nào để tam giác hóa (triangulation) có thể giải quyết các hạn chế của từng phương pháp thu thập dữ liệu riêng lẻ?
+A. Bằng cách tăng kích thước mẫu
+B. Bằng cách xác nhận kết quả từ nhiều nguồn và phương pháp khác nhau
+C. Bằng cách loại bỏ dữ liệu không nhất quán
+D. Bằng cách tập trung vào phương pháp hiệu quả nhất
+Đáp án: B
+
+Câu 234. Trong bối cảnh của dữ liệu lớn và AI, "khả năng giải thích" (explainability) đề cập đến điều gì?
+A. Khả năng AI tự giải thích các quyết định của nó
+B. Khả năng chuyên gia giải thích cách AI hoạt động
+C. Khả năng người không chuyên có thể hiểu được lời giải thích về quyết định của AI
+D. Khả năng AI đưa ra dự đoán chính xác
+Đáp án: C
+
+Câu 235. Làm thế nào mà việc kết hợp phân tích tình cảm và phân tích mạng xã hội có thể cung cấp thông tin sâu sắc hơn về động lực xã hội?
+A. Bằng cách chỉ tập trung vào các cảm xúc tích cực
+B. Bằng cách xác định cách cảm xúc lan truyền qua các mạng xã hội
+C. Bằng cách loại bỏ nhu cầu phân tích định tính
+D. Bằng cách thay thế nhu cầu thu thập dữ liệu trực tiếp
+Đáp án: B
+
+Câu 236. Trong thiết kế có đạo đức của hệ thống AI, "công bằng quy trình" (procedural fairness) khác với "công bằng kết quả" (outcome faimess) như thế nào?
+A. Công bằng quy trình tập trung vào đầu vào, trong khi công bằng kết quả tập trung vào đầu ra
+B. Công bằng quy trình đảm bảo quy trình ra quyết định công bằng, trong khi công bằng kết quả đảm bảo kết quả bình đăng
+C. Công bằng quy trình áp dụng cho AI, trong khi công bằng kết quả áp dụng cho con người
+D. Công bằng quy trình là về tính minh bạch, trong khi công bằng kết quả là về tính chính xác
+Đáp án: B
+
+Câu 237. Làm thế nào mà phương pháp "nghiên cứu thí điểm" (pilot study) có thể cải thiện tính hiệu lực của một nghiên cứu tương tác người-máy lớn hơn?
+A. Bằng cách tăng kích thước mẫu
+B. Bằng cách loại bỏ nhu cầu thu thập dữ liệu chính
+C. Bằng cách xác định và giải quyết các vấn đề tiềm ẩn trong thiết kế nghiên cứu
+D. Bằng cách thay thế nghiên cứu chính
+Đáp án: C
+
+Câu 238. Trong bối cảnh của phân tích tương tác, "turn-taking" đề cập đến khía cạnh nào của tương tác?
+A. Thời gian mỗi người dùng để hoàn thành một nhiệm vụ
+B. Cách người tham gia luân phiên nói trong cuộc trò chuyện
+C. Số lần một người dùng quay lại một ứng dụng
+D. Tần suất người dùng thay đổi cài đặt của họ
+Đáp án: B
+
+Câu 239. Yêu cầu trong thiết kế tương tác người máy là gì?
+A. Một kế hoạch marketing
+B. Một tuyên bố về sản phẩm dự kiến
+C. Một danh sách công nghệ cần sử dụng
+D. Một bản vẽ kỹ thuật chi tiết
+Đáp án: B
+
+Câu 240. Câu chuyện người dùng thường có định dạng nào?
+A. Nếu <điều kiện>, thì <hành động>
+B. Với tư cách là <vai trò>, tôi muốn <hành vi> sao cho <lợi ích>
+C. Khi <sự kiện>, hệ thống sẽ <phản hồi>
+D. <Tên người dùng> muốn <mục tiêu> bằng cách <phương pháp>
+Đáp án: B
+
+Câu 241. Yêu cầu chức năng đề cập đến điều gì?
+A. Môi trường hoạt động của hệ thống
+B. Dữ liệu cần được lưu trữ như thế nào
+C. Đặc điểm của người dùng
+D. Hệ thống nên làm gì
+Đáp án: D
+
+Câu 242. Phương pháp nào sau đây KHÔNG phải là một phương pháp thu thập dữ liệu cho yêu cầu?
+A. Phỏng vấn
+B. Quan sát
+C. Thử nghiệm A/B
+D. Nghiên cứu tài liệu
+Đáp án: C
+
+Câu 243. Cá tính (personas) trong thiết kế tương tác người máy là gì?
+A. Nhân vật hư cấu trong kịch bản sử dụng
+B. Mô tả đặc tính của sản phẩm
+C. Tập hợp các đặc điểm người dùng dựa trên nghiên cứu
+D. Danh sách các yêu cầu chức năng
+Đáp án: C
+
+Câu 244. Kịch bản (scenario) trong thiết kế tương tác người máy là gì?
+A. Một bản vẽ kỹ thuật chi tiết
+B. Một câu chuyện tường thuật về cách sử dụng sản phẩm
+C. Một danh sách các tính năng của sản phẩm
+D. Một bảng so sánh với sản phẩm cạnh tranh
+Đáp án: B
+
+Câu 245. Use Case tập trung vào điều gì?
+A. Yêu cầu chức năng và sự tương tác cần thực hiện
+B. Các yếu tố thẩm mỹ của giao diện
+C. Đặc điểm cá nhân của người dùng
+D. Chiến lược marketing cho sản phẩm
+Đáp án: A
+
+Câu 246. Phương pháp nào sau đây KHÔNG phải là một phương pháp thăm dò các bên liên quan?
+A. Thăm dò bằng thiết kế
+B. Thăm dò bằng văn hóa
+C. Thăm dò bằng công nghệ
+D. Thăm dò bằng phỏng vấn trực tiếp
+Đáp án: D
+
+Câu 247. Trong phỏng vấn theo bối cảnh, nguyên tắc nào KHÔNG phải là một trong bốn nguyên tắc chính?
+A. Bối cảnh
+B. Quan hệ đối tác
+C. Diễn giải
+D. Cạnh tranh
+Đáp án: D
+
+Câu 248. Quy tắc nào sau đây KHÔNG phải là một trong bốn quy tắc động não của Alex Osborn?
+A. Số lượng hơn chất lượng
+B. Những lời chỉ trích nên được giữ lại
+C. Khuyến khích tư duy đột phá
+D. Chỉ chấp nhận tưởng khả thi
+Đáp án: D
+
+Câu 249. Mục đích chính của việc sử dụng cá tính (personas) là gì?
+A. Xác định ngân sách cho dự án
+B. Tạo ra một danh sách đầy đủ các yêu cầu
+C. Giúp nhà thiết kế đưa ra quyết định thiết kế
+D. Lập kế hoạch marketing
+Đáp án: C
+
+Câu 250. Trong thiết kế tương tác người máy, "khái niệm niềm vui cuộc sống" đề cập đến điều gì?
+A. Mức độ hài lòng của khách hàng
+B. Tính năng giải trí của sản phâm
+C. Cách sản phẩm làm cho cuộc sống phong phú hơn
+D. Số lượng tính năng của sản phẩm
+Đáp án: C
+
+Câu 251. Phương pháp nào sau đây thường được sử dụng để nắm bắt yêu cầu cho người dùng chuyên gia?
+A. Nhắc nhở và hạn chế
+B. Phím tắt
+C. Đường dẫn menu rõ ràng
+D. Tính linh hoạt và quyền truy cập/sức mạnh
+Đáp án: D
+
+Câu 252. Trong thiết kế tương tác người máy, "niềm vui của các khái niệm sử dụng" đề cập đến điều gì?
+A. Mô tả tác dụng của việc sử dụng sản phẩm
+B. Mức độ giải trí khi sử dụng sản phẩm
+C. Số lượng tính năng của sản phẩm
+D. Độ phức tạp của giao diện người dùng
+Đáp án: A
+
+Câu 253. Trong Use Case, "trường hợp thay thế" đề cập đến điều gì?
+A. Phiên bản thay thế của sản phẩm
+B. Người dùng thay thế
+C. Các tình huống khác với luồng chính của tương tác
+D. Công nghệ thay thế
+Đáp án: C
+
+Câu 254. Mục đích chính của việc sử dụng kịch bản (scenarios) là gì?
+A. Xác định ngân sách cho dự án
+B. Khám phá hành vi hiện có và tiềm năng của sản phẩm mới
+C. Lập kế hoạch kịch bản tiếp thị
+D. Tạo ra một danh sách đầy đủ các yêu cầu kỹ thuật
+Đáp án: B
+
+Câu 255. Trong thiết kế tương tác người máy, "yêu cầu dữ liệu" đề cập đến điều gì?
+A. Cách dữ liệu được hiển thị trên giao diện
+B. Cách dữ liệu được truyền qua mạng
+C. Tốc độ xử lý dữ liệu của hệ thống
+D. Loại dữ liệu cần được lưu trữ và đặc điểm của nó
+Đáp án: D
+
+Câu 256. Phương pháp nào sau đây thường được sử dụng để nắm bắt yêu cầu cho người dùng mới?
+A. Tính linh hoạt và quyền truy cập/sức mạnh
+B. Phím tắt
+C. Nhắc nhở và hạn chế
+D. Đường dẫn menu phức tạp
+Đáp án: C
+
+Câu 257. Trong thiết kế tương tác người máy, "yêu cầu môi trường" đề cập đến điều gì?
+A. Điều kiện ánh sáng khi sử dụng sản phẩm
+B. Yêu cầu về phần cứng của hệ thống
+C. Yêu cầu về không gian lưu trữ
+D. Bối cảnh sử dụng của sản phẩm
+Đáp án: D
+
+Câu 258. Mục đích chính của việc sử dụng Use Case là gì?
+A. Xác định các trường hợp sử dụng của dự án
+B. Xác định các trường hợp người dùng cho dự án
+C. Nắm bắt chi tiết về sự tương tác giữa người dùng và sản phẩm
+D. Tạo ra một danh sách đầy đủ các yêu cầu về giao diện
+Đáp án: C
+
+Câu 259. Nguyên mẫu trong thiết kế tương tác là gì?
+A. Một bản vẽ kỹ thuật chi tiết cho phép các bên liên quan sử dụng nó
+B. Một tài liệu mô tả yêu cầu cho phép các bên liên quan tương tác với nó
+C. Một bản trình bày thiết kế cho phép các bên liên quan tương tác với nó
+D. Một sản phẩm hoàn chỉnh cho phép các bên liên quan sử dụng nó
+Đáp án: C
+
+Câu 260. Tại sao việc tạo nguyên mẫu lại quan trọng trong thiết kế tương tác?
+A. Để tránh sự tham gia quá nhiều của các bên liên quan
+B. Để rút ngắn thời gian phát triển
+C. Để đánh giá và nhận phản hồi từ các bên liên quan
+D. Để giảm chi phí phát triển
+Đáp án: C
+
+Câu 261. Nguyên mẫu có độ chính xác thấp thường được tạo bằng cách sử dụng:
+A. Phần mềm phức tạp
+B. Giấy hoặc bìa cứng
+C. Mã nguồn hoàn chỉnh
+D. Thiết bị điện tử cao cấp
+Đáp án: B
+
+Câu 262. Bảng phân cảnh (storyboard) trong thiết kế tương tác là gì?
+A. Một bản vẽ kỹ thuật mô tả chi tiết thiết kế
+B. Một loạt các bản phác thảo cho thấy cách thực hiện một nhiệm vụ
+C. Một phân cảnh danh sách các yêu cầu chi tiết thiết kế
+D. Một bản thiết kế phân cảnh chi tiết của sản phẩm cuối cùng
+Đáp án: B
+
+Câu 263. Phương pháp "Phù thủy xứ Oz" trong tạo nguyên mẫu là gì?
+A. Sử dụng ma thuật để tạo nguyên mẫu tương tác với máy tính
+B. Người tham gia tương tác với máy tính, nhưng thực tế con người đang phản hồi
+C. Sử dụng công nghệ thực tế ảo để tạo nguyên mẫu tương tác với máy tính
+D. Tạo nguyên mẫu hoàn toàn tự động để người tham gia tương tác với máy tính
+Đáp án: B
+
+Câu 264. Thỏa hiệp "ngang" trong tạo nguyên mẫu có nghĩa là gì?
+A. Chỉ tập trung vào hiệu suất hệ thống
+B. Tập trung vào một chức năng duy nhất
+C. Có nhiều chức năng nhưng ít chi tiết
+D. Chỉ tập trung vào giao diện người dùng
+Đáp án: C
+
+Câu 265. AgileUX là gì?
+A. Một phần mềm thiết kế giao diện người dùng áp dụng phương pháp Agile
+B. Một phương pháp tích hợp kỹ thuật từ thiết kế tương tác và phương pháp Agile
+C. Một công cụ quản lý dự án của phương pháp Agile
+D. Một ngôn ngữ lập trình cho giao diện người dùng của phương pháp Agile
+Đáp án: B
+
+Câu 266. LeanUX tập trung vào:
+A. Kéo dài thời gian phát triển UX sản phẩm
+B. Tạo ra nhiều tài liệu UX càng nhiều càng tốt
+C. Phát triển sản phẩm nhanh chóng để nhận phản hồi thực tế từ người dùng
+D. Giảm chi phí phát triển UX để phát triển sản phẩm nhanh chóng
+Đáp án: C
+
+Câu 267. Mẫu thiết kế (design pattern) trong thiết kế tương tác là gì?
+A. Một giải pháp cho một vấn đề trong một bối cảnh cụ thể
+B. Một bản vẽ kỹ thuật chi tiết
+C. Một danh sách các yêu cầu phần mềm
+D. Một bản mô tả chi tiết về sản phẩm cuối cùng
+Đáp án: A
+
+Câu 268. Ngôn ngữ thiết kế là gì?
+A. Một ngôn ngữ lập trình thiết kế
+B. Một bộ sưu tập có cấu trúc của các mẫu và thành phần thiết kế
+C. Một phương pháp giao tiếp giữa nhà thiết kế và lập trình viên
+D. Một công cụ quản lý ngôn ngữ thiết kế
+Đáp án: B
+
+Câu 269. Mục đích chính của việc tạo nguyên mẫu có độ chính xác cao là gì?
+A. Để tiết kiệm chi phí phát triển hệ thống
+B. Để tránh phản hồi từ người dùng trong quá trình phát triển
+C. Để có một sản phẩm trông giống hệ thống cuối cùng hơn
+D. Để thay thế hoàn toàn quá trình phát triển cuối cùng
+Đáp án: C
+
+Câu 270. Trong LeanUX, "sản phẩm khả thi tối thiểu" (MVP) là gì?
+A. Sản phẩm cuối cùng hoàn chỉnh
+B. Một phiên bản đơn giản nhất của sản phẩm để kiểm tra giả thuyết
+C. Một tài liệu thiết kế sản phẩm chi tiết
+D. Một nguyên mẫu có độ chính xác cao hoàn chỉnh
+Đáp án: B
+
+Câu 271. Mục đích chính của việc sử dụng mẫu thiết kế là gì?
+A. Để tăng độ phức tạp của thiết kế
+B. Để giảm sự sáng tạo của thiết kế
+C. Để nắm bắt và tái sử dụng kinh nghiệm thiết kế
+D. Để giảm chi phí phát triển của thiết kế
+Đáp án: C
+
+Câu 272. Chống mẫu (anti-pattem) trong thiết kế tương tác là gì?
+A. Một mẫu thiết kế tốt
+B. Một giải pháp phổ biến cho vấn đề thiết kế
+C. Một ví dụ về thiết kế xấu cần tránh
+D. Một công cụ thiết kế mới
+Đáp án: C
+
+Câu 273. Tài liệu trong AgileUX nên được xử lý như thế nào?
+A. Loại bỏ hoàn toàn tài liệu
+B. Chỉ tạo tài liệu vào cuối dự án
+C. Tạo càng nhiều tài liệu càng tốt
+D. Sử dụng tài liệu ở mức tối thiểu cần thiết
+Đáp án: D
+
+Câu 274. Mục đích của việc sử dụng công cụ thiết kế tương tác là gì?
+A. Để thay thế hoàn toàn vai trò của nhà thiết kế
+B. Để tăng chi phí dự án
+C. Để hỗ trợ và tăng tốc quá trình thiết kế
+D. Để giảm sự tham gia của người dùng
+Đáp án: C
+
+Câu 275. Trong thiết kế tương tác, "nợ UX" đề cập đến:
+A. Số lượng tính năng của sản phẩm chưa được phát triển
+B. Những thỏa hiệp có lợi ngắn hạn nhưng gây vấn đề dài hạn
+C. Thời gian phát triển sản phẩm kéo dài hơn dự định
+D. Chi phí tài chính của dự án chưa được chi tra
+Đáp án: B
+
+Câu 276. Mục đích của việc sử dụng bảng tâm trạng (mood board) trong thiết kế tương tác là gì?
+A. Để ghi lại cảm giác mong muốn cho sản phẩm
+B. Để lập kế hoạch ngân sách dự án
+C. Để quản lý thời gian phát triển
+D. Để xác định các yêu cầu kỹ thuật
+Đáp án: A
+
+Câu 277. Trong thiết kế tương tác, khái niệm "thỏa hiệp dọc" trong tạo nguyên mẫu đề cập đến:
+A. Tập trung vào ít chức năng nhưng với nhiều chi tiết
+B. Bỏ qua cả chức năng và chi tiết để tăng tốc độ phát triển
+C. Tập trung vào nhiều chức năng với ít chi tiết
+D. Cân bằng giữa chức năng và chi tiết
+Đáp án: A
+
+Câu 278. Trong LeanUX, quá trình "xây dựng-đo lường-học hỏi" liên quan đến:
+A. Tập trung vào việc tối ưu hóa quy trình nội bộ
+B. Tạo ra sản phẩm hoàn chỉnh trước khi thu thập phản hồi
+C. Tạo giả thuyết, kiểm tra nhanh và điều chỉnh dựa trên kết quả
+D. Trì hoãn phản hồi của người dùng đến giai đoạn cuối của quá trình phát triển
+Đáp án: C
+
+Câu 279. Khi áp dụng nguyên tắc "thiết kế cho mọi người" trong thiết kế tương tác, điều quan trọng nhất cần xem xét là:
+A. Tối đa hóa số lượng các tính năng
+B. Tạo ra một giao diện phức tạp để đáp ứng mọi nhu cầu
+C. Đảm bảo khả năng tiếp cận và sử dụng cho nhiều đối tượng người dùng khác nhau
+D. Tập trung vào nhóm người dùng chính
+Đáp án: C
+
+Câu 280. Trong bối cảnh của "thiết kế có sự tham gia", khái niệm "các bên liên quan là đối tác thiết kế" có nghĩa là:
+A. Các bên liên quan đóng góp tài chính cho dự án
+B. Các bên liên quan tham gia tích cực vào quá trình thiết kế và đưa ra quyết định
+C. Các bên liên quan đánh giá sản phẩm cuối cùng
+D. Các bên liên quan cung cấp yêu cầu ban đầu
+Đáp án: B
+
+Câu 281. Khi áp dụng "thiết kế dựa vào cộng đồng" trong một dự án lớn, thách thức chính là:
+A. Giảm số lượng tính năng sản phẩm
+B. Tích hợp đóng góp từ một số lượng lớn và đa dạng các bên liên quan
+C. Tăng tốc độ phát triển
+D. Giảm chi phí phát triển
+Đáp án: B
+
+Câu 282. Trong thiết kế tương tác, "mô hình khái niệm" đóng vai trò gì?
+A. Một bản thiết kế chi tiết của giao diện người dùng và những khái niệm cần để hiểu sản phẩm
+B. Một bản phác thảo về những gì người dùng có thể làm và những khái niệm cần để hiểu sản phẩm
+C. Một danh sách đầy đủ các yêu cầu kỹ thuật về giao diện người dùng và tính năng cần thiết
+D. Một bản thiết kế chi tiết và danh sách đầy đủ các yêu cầu kỹ thuật của giao diện người dùng
+Đáp án: B
+
+Câu 283. Khi sử dụng phương pháp "đồng thiết kế" trong một dự án, điều gì được coi là quan trọng nhất?
+A. Tăng tốc độ phát triển
+B. Giảm chi phí dự án
+C. Nhấn mạnh sự sáng tạo và học hỏi lẫn nhau giữa các bên liên quan
+D. Giảm số lượng cuộc họp dự án
+Đáp án: C
+
+Câu 284. Trong bối cảnh của AgileUX, "lần lặp 0" thường được sử dụng để:
+A. Hoàn thành tất cả các tài liệu dự án
+B. Phát triển sản phẩm cuối cùng
+C. Kiểm tra sản phẩm với người dùng cuối
+D. Thực hiện một số nghiên cứu người dùng ban đầu và xây dựng tầm nhìn sản phẩm
+Đáp án: D
+
+Câu 285. Mục đích chính của việc đánh giá trong thiết kế tương tác người-máy là gì?
+A. Để đánh giá doanh thu của sản phẩm có được tính đến trong thiết kế hay không
+B. Để so sánh với các sản phẩm của đối thủ cạnh tranh
+C. Để tìm ra lỗi phần mềm có được tính đến trong thiết kế hay không
+D. Để kiểm tra xem tất cả các khía cạnh của trải nghiệm người dùng có được tính đến trong thiết kế hay không
+Đáp án: D
+
+Câu 286. Đâu KHÔNG phải là một trong ba loại cài đặt đánh giá được đề cập trong tài liệu?
+A. Các cài đặt được kiểm soát có liên quan trực tiếp đến người dùng
+B. Cài đặt tự nhiên liên quan đến người dùng
+C. Bất kỳ cài đặt nào không liên quan trực tiếp đến người dùng
+D. Cài đặt trong phòng thí nghiệm ảo
+Đáp án: C
+
+Câu 287. Phòng thí nghiệm sống (Living Lab) là gì?
+A. Một phòng thí nghiệm để thử nghiệm các sản phẩm sống cuộc sống hàng ngày
+B. Một phòng thí nghiệm chỉ dành cho nghiên cứu y tế sử dụng các động vật sống trong cuộc sống hàng ngày
+C. Một môi trường nơi việc sử dụng công nghệ của con người trong cuộc sống hàng ngày có thể được đánh giá
+D. Một môi trường nơi việc sử dụng các động vật sống trong cuộc sống hàng ngày có thể được đánh giá
+Đáp án: C
+
+Câu 288. Đánh giá heuristic được phát triển bởi ai?
+A. Steve Jobs
+B. Mark Zuckerberg
+C. Jacob Nielsen
+D. Bill Gates
+Đáp án: C
+
+Câu 289. Phương pháp nào sau đây KHÔNG phải là một phương pháp đánh giá
+A. Đánh giá khả năng sử dụng
+B. Đánh giá heuristic
+C. Phân tích trang web
+D. Phỏng vấn nhóm tập trung
+Đáp án: C
+
+Câu 290. Luật Fitts liên quan đến điều gì?
+A. Tốc độ xử lý của máy tính
+B. Thời gian để chỉ một vật thể bằng thiết bị
+C. Độ phức tạp của mã nguồn
+D. Tốc độ kết nối internet
+Đáp án: B
+
+Câu 291. Thử nghiệm A/B là gì?
+A. Một phương pháp phân tích hai nguyên mẫu thiết kế
+B. Một kỹ thuật thử nghiệm lập trình hai nguyên mẫu thiết kế
+C. Một loại thí nghiệm quy mô lớn so sánh hai phiên bản của một thiết kế
+D. Một loại thí nghiệm so sánh hai nhóm sản phẩm thiết kế
+Đáp án: C
+
+Câu 292. Đâu là một trong những ưu điểm của đánh giá heuristic?
+A. Ít vấn đề đạo đức cần xem xét vì người dùng không tham gia trực tiếp
+B. Luôn xác định được tất cả các vấn đề quan trọng
+C. Không tốn kém để tìm chuyên gia đánh giá
+D. Luôn cho kết quả chính xác 100%
+Đáp án: A
+
+Câu 293. Đánh giá bằng hướng dẫn nhận thức (cognitive walkthrough) tập trung vào yếu tố nào?
+A. Độ chính xác của hệ thống
+B. Tính thẩm mỹ của giao diện
+C. Sự dễ dàng học tập
+D. Tốc độ sử dụng
+Đáp án: C
+
+Câu 294. Phân tích trang web chủ yếu được sử dụng để làm gì?
+A. Tăng tốc độ tải trang trên website để cải thiện thiết kế
+B. Cải thiện SEO của người dùng
+C. Phân tích hoạt động của người dùng trên website để cải thiện thiết kế
+D. Sửa lỗi bảo mật trên website để cải thiện thiết kế
+Đáp án: C
+
+Câu 295. Đánh giá từ xa trở nên đặc biệt quan trọng trong bối cảnh nào?
+A. Sự phát triển của công nghệ 5G
+B. Sự ra đời của trí tuệ nhân tạo
+C. Sự phổ biến của điện toán đám mây
+D. Đại dịch Covid-19
+Đáp án: D
+
+Câu 296. Trong đánh giá heuristic, Nielsen gợi ý rằng bao nhiêu người đánh giá có thể xác định được 75-80% vấn đề về khả năng sử dụng?
+A. 3 người
+B. 5 người
+C. 10 người
+D. 15 người
+Đáp án: B
+
+Câu 297. Đâu KHÔNG phải là một trong bốn khái niệm chính (POUR) của WCAG?
+A. Perceivable (Có thể nhận biết được)
+B. Operable (Có thể hoạt động)
+C. Understandable (Có thể hiểu được)
+D. Transferable (Có thể chuyển giao)
+Đáp án: D
+
+Câu 298. Phương pháp nào sau đây thường liên quan đến việc thu thập dữ liệu về cách người dùng tương tác với một trang web?
+A. Đánh giá heuristic
+B. Cognitive walkthrough
+C. Phân tích trang web
+D. Pluralistic walkthrough
+Đáp án: C
+
+Câu 299. Định luật Fitts đặc biệt hữu ích trong việc đánh giá loại hệ thống nào?
+A. Hệ thống xử lý ngôn ngữ tự nhiên của một đối tượng là quan trọng
+B. Hệ thống mà thời gian xác định vị trí của một đối tượng là quan trọng
+C. Hệ thống quản lý cơ sở dữ liệu của một đối tượng là quan trọng
+D. Hệ thống mạng máy tính của một đối tượng là quan trọng
+Đáp án: B
+
+Câu 300. Đánh giá bằng hướng dẫn đa dạng (Pluralistic walkthrough) khác với hướng dẫn nhận thức (cognitive walkthrough) ở điểm nào?
+A. Nó chỉ tập trung vào giao diện người dùng
+B. Nó được thực hiện bởi một đội ngũ được quản lý cẩn thận
+C. Nó chỉ áp dụng cho phần mềm máy tính để bàn
+D. Nó không bao giờ yêu cầu thảo luận nhóm
+Đáp án: B
+
+Câu 301. Mô hình dự đoán có ưu điểm gì so với thử nghiệm với người dùng?
+A. Luôn nhanh hơn
+B. Có thể áp dụng cho mọi loại hệ thống
+C. Luôn chính xác hơn
+D. Ít tốn kém hơn
+Đáp án: D
+
+Câu 302. Đâu là một trong những thách thức đạo đức tiềm ẩn của thử nghiệm A/B?
+A. Nó luôn yêu cầu sự tham gia của người dùng như là một phần của cuộc thử nghiệm
+B. Nó có thể tạo ra tình huống khó xử nếu người dùng không biết họ là một phần của cuộc thử nghiệm
+C. Nó chỉ có thể được thực hiện bởi các công ty lớn
+D. Nó luôn vi phạm quyền riêng tư của người dùng
+Đáp án: B
