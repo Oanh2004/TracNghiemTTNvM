@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trắc nghiệm Online</title>
+    <style>
+        :root {
+            /* Light Mode Colors */
+            --bg-color: #f4f7f9;
+            --text-color: #333;
+            --container-bg: #ffffff;
+            --header-gradient: linear-gradient(135deg, #4a90e2, #55cbf2);
+            --option-bg: #f8f9fa;
+            --option-border: #dee2e6;
+            --option-hover-bg: #e9ecef;
+            --button-bg: #4a90e2;
+            --button-hover-bg: #357abd;
+            --start-btn-bg: #28a745;
+            --start-btn-hover-bg: #218838;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+            transition: background-color 0.3s, color 0.3s;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            box-sizing: border-box;
+        }
+        
+        body.dark-mode {
+            --bg-color: #1a202c;
+            --text-color: #e2e8f0;
+            --container-bg: #2d3748;
+            --header-gradient: linear-gradient(135deg, #2b6cb0, #4fd1c5);
+            --option-bg: #4a5568;
+            --option-border: #718096;
+            --option-hover-bg: #718096;
+            --button-bg: #3182ce;
+            --button-hover-bg: #2b6cb0;
+            --start-btn-bg: #38a169;
+            --start-btn-hover-bg: #2f855a;
+        }
+        
+        .main-wrapper {
+            width: 90%;
+            max-width: 800px;
+        }
+
+        #start-screen {
+            background-color: var(--container-bg);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        #start-screen h2 {
+            margin-top: 0;
+            font-size: 1.8em;
+            color: var(--text-color);
+        }
+
+        .option-group {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 30px 0;
+            font-size: 1.2em;
+        }
+
+        #shuffle-checkbox {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+
+        #start-btn {
+            background-color: var(--start-btn-bg);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            width: 100%;
+        }
+        #start-btn:hover {
+            background-color: var(--start-btn-hover-bg);
+        }
+
+        #quiz-container {
+            background-color: var(--container-bg);
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: background-color 0.3s;
+        }
+
+        #quiz-header {
+            background: var(--header-gradient);
+            color: white;
+            padding: 20px 25px;
+            font-size: 1.6em;
+            font-weight: bold;
+            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        #theme-toggle-btn {
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            color: white;
+            font-size: 1.2rem;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        #theme-toggle-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        #quiz-body {
+            padding: 25px;
+        }
+
+        .question-block {
+            margin-bottom: 25px;
+            border-bottom: 1px solid var(--option-border);
+            padding-bottom: 20px;
+        }
+        .question-block:last-child {
+            border-bottom: none;
+        }
+        .question-text {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        .options-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .option-item {
+            background-color: var(--option-bg);
+            border: 1px solid var(--option-border);
+            color: var(--text-color);
+            border-radius: 8px;
+            margin-bottom: 10px;
+            padding: 12px 15px;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            display: flex;
+            align-items: center;
+        }
+        .option-item:hover {
+            background-color: var(--option-hover-bg);
+            border-color: #adb5bd;
+        }
+        
+        .option-item.correct {
+            background-color: #d4edda !important;
+            border-color: #28a745 !important;
+            color: #155724;
+        }
+        body.dark-mode .option-item.correct {
+             background-color: #2f4538 !important;
+             border-color: #38a169 !important;
+             color: #c6f6d5;
+        }
+
+        .option-item.incorrect {
+            background-color: #f8d7da !important;
+            border-color: #dc3545 !important;
+            color: #721c24;
+        }
+        body.dark-mode .option-item.incorrect {
+            background-color: #5f2a2f !important;
+            border-color: #e53e3e !important;
+            color: #fed7d7;
+        }
+
+        .correct-answer-text {
+            font-weight: bold;
+            color: #28a745;
+            margin-top: 10px;
+            padding: 8px;
+            background-color: #e9f7ef;
+            border-radius: 5px;
+            display: none;
+        }
+        body.dark-mode .correct-answer-text {
+            color: #68d391;
+            background-color: #2c523e;
+        }
+
+        #navigation-btns {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        #next-btn, #results-btn, #retry-btn {
+            background-color: var(--button-bg);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 15px 25px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        #next-btn:hover, #results-btn:hover, #retry-btn:hover {
+            background-color: var(--button-hover-bg);
+        }
+        #results-container {
+            padding: 25px;
+            text-align: center;
+            background-color: var(--option-bg);
+        }
+        #results-summary {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: var(--text-color);
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="main-wrapper">
+        <div id="start-screen">
+            <h2>Tùy chọn bài làm</h2>
+            <div class="option-group">
+                <input type="checkbox" id="shuffle-checkbox" checked>
+                <label for="shuffle-checkbox">Xáo trộn câu hỏi</label>
+            </div>
+            <button id="start-btn">Bắt đầu làm bài</button>
+        </div>
+
+        <div id="quiz-container" style="display: none;">
+            <div id="quiz-header">
+                <span>Bài trắc nghiệm ôn tập</span>
+                <button id="theme-toggle-btn">🌙</button>
+            </div>
+
+            <div id="results-container" style="display: none;">
+                <h2>Hoàn thành!</h2>
+                <div id="results-summary"></div>
+                <button id="retry-btn">Làm lại</button>
+            </div>
+            
+            <div id="quiz-body">
+                <div id="questions-wrapper"></div>
+                <div id="navigation-btns">
+                    <button id="next-btn" style="display:none;">Tiếp theo</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // DOM Elements
+            const startScreen = document.getElementById('start-screen');
+            const startBtn = document.getElementById('start-btn');
+            const shuffleCheckbox = document.getElementById('shuffle-checkbox');
+            const quizContainer = document.getElementById('quiz-container');
+            const questionsWrapper = document.getElementById('questions-wrapper');
+            const nextBtn = document.getElementById('next-btn');
+            const retryBtn = document.getElementById('retry-btn');
+            const themeToggleBtn = document.getElementById('theme-toggle-btn');
+            
+            // State
+            let questionsData = [];
+            let currentQuestionIndex = 0;
+            const questionsPerPage = 2;
+            let userAnswers = {};
+
+            // === DARK MODE LOGIC ===
+            const currentTheme = localStorage.getItem('theme');
+            if (currentTheme === 'dark') {
+                document.body.classList.add('dark-mode');
+                themeToggleBtn.textContent = '☀️';
+            }
+
+            themeToggleBtn.addEventListener('click', () => {
+                document.body.classList.toggle('dark-mode');
+                let theme = 'light';
+                if (document.body.classList.contains('dark-mode')) {
+                    theme = 'dark';
+                    themeToggleBtn.textContent = '☀️';
+                } else {
+                    themeToggleBtn.textContent = '🌙';
+                }
+                localStorage.setItem('theme', theme);
+            });
+            // =========================
+
+            // === SHUFFLE FUNCTION (Fisher-Yates Algorithm) ===
+            function shuffleArray(array) {
+                for (let i = array.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+                }
+            }
+            // ===============================================
+
+            // === START QUIZ EVENT ===
+            startBtn.addEventListener('click', () => {
+                const shouldShuffle = shuffleCheckbox.checked;
+
+                fetch('/api/questions')
+                    .then(res => res.json())
+                    .then(data => {
+                        questionsData = data;
+                        if (shouldShuffle) {
+                            shuffleArray(questionsData);
+                        }
+                        
+                        // Hide start screen and show quiz
+                        startScreen.style.display = 'none';
+                        quizContainer.style.display = 'block';
+                        
+                        renderQuestions();
+                    });
+            });
+            // ========================
+
+            function renderQuestions() {
+                let html = '';
+                const end = Math.min(currentQuestionIndex + questionsPerPage, questionsData.length);
+
+                for (let i = currentQuestionIndex; i < end; i++) {
+                    const q = questionsData[i];
+                    html += `
+                        <div class="question-block" id="q-block-${i}" data-question-global-index="${q.id}">
+                            <div class="question-text">${i + 1}. ${q.question}</div>
+                            <ul class="options-list">
+                                ${q.options.map(opt => `
+                                    <li class="option-item" data-question-index="${i}" data-option-letter="${opt.letter}">
+                                        <label><strong>${opt.letter}.</strong> ${opt.text}</label>
+                                    </li>
+                                `).join('')}
+                            </ul>
+                            <div class="correct-answer-text" id="answer-text-${i}"></div>
+                        </div>
+                    `;
+                }
+                questionsWrapper.innerHTML = html;
+                addOptionListeners();
+
+                if (end === questionsData.length) {
+                    nextBtn.innerText = 'Xem kết quả';
+                } else {
+                    nextBtn.innerText = 'Tiếp theo';
+                }
+                nextBtn.style.display = 'none';
+            }
+
+            function addOptionListeners() {
+                document.querySelectorAll('.option-item').forEach(item => {
+                    item.addEventListener('click', () => {
+                        const qIndex = parseInt(item.dataset.questionIndex);
+                        const selectedLetter = item.dataset.optionLetter;
+                        
+                        userAnswers[qIndex] = selectedLetter;
+
+                        const qBlock = document.getElementById(`q-block-${qIndex}`);
+                        const correctAnswer = questionsData[qIndex].answer;
+
+                        qBlock.querySelectorAll('.option-item').forEach(opt => {
+                            const optLetter = opt.dataset.optionLetter;
+                            opt.style.pointerEvents = 'none'; 
+
+                            if (optLetter === correctAnswer) {
+                                opt.classList.add('correct');
+                            }
+                            if (optLetter === selectedLetter && selectedLetter !== correctAnswer) {
+                                opt.classList.add('incorrect');
+                            }
+                        });
+                        
+                        const answerTextEl = document.getElementById(`answer-text-${qIndex}`);
+                        answerTextEl.innerText = `Đáp án đúng: ${correctAnswer}`;
+                        answerTextEl.style.display = 'block';
+
+                        checkAllAnswered();
+                    });
+                });
+            }
+
+            function checkAllAnswered() {
+                const end = Math.min(currentQuestionIndex + questionsPerPage, questionsData.length);
+                let allAnswered = true;
+                for (let i = currentQuestionIndex; i < end; i++) {
+                    if (userAnswers[i] === undefined) {
+                        allAnswered = false;
+                        break;
+                    }
+                }
+                if (allAnswered) {
+                    nextBtn.style.display = 'block';
+                }
+            }
+
+            nextBtn.addEventListener('click', () => {
+                if (currentQuestionIndex + questionsPerPage >= questionsData.length) {
+                    displayFinalResults();
+                } else {
+                    currentQuestionIndex += questionsPerPage;
+                    renderQuestions();
+                }
+            });
+
+            function displayFinalResults() {
+                let score = 0;
+                questionsData.forEach((q, index) => {
+                    if (userAnswers[index] === q.answer) {
+                        score++;
+                    }
+                });
+
+                const total = questionsData.length;
+                const percentage = total > 0 ? ((score / total) * 100).toFixed(2) : 0;
+                
+                document.getElementById('quiz-body').style.display = 'none';
+                const resultsContainer = document.getElementById('results-container');
+                document.getElementById('results-summary').innerHTML = 
+                    `Bạn đã trả lời đúng ${score} / ${total} câu (${percentage}%)`;
+                resultsContainer.style.display = 'block';
+                window.scrollTo(0, 0);
+            }
+
+            retryBtn.addEventListener('click', () => location.reload());
+        });
+    </script>
+</body>
+</html>
